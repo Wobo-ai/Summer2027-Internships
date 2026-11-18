@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,286 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,288 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (292) · [AI and ML](#ai-and-ml-internships) (168) · [Data](#data-internships) (129) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (67) · [Hardware](#hardware-internships) (408) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (181) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (292) · [AI and ML](#ai-and-ml-internships) (170) · [Data](#data-internships) (129) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (67) · [Hardware](#hardware-internships) (408) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (181) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -313,6 +313,8 @@
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
 | **Nabors** | [Intern - AI Center of Excellence](https://www.wobo.ai/job/intern-ai-center-of-excellence-at-nabors-rwr9pjcar/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Nov&nbsp;18 |
+| **Falcomm** | [AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration](https://www.wobo.ai/job/aiml-software-engineer-undergraduate-intern-aicad-integration-at-falcomm-rvgkskg2g/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA |  | Nov&nbsp;18 |
+| ↳ | [AI/ML Software Engineer Graduate Intern - AI/CAD Integration](https://www.wobo.ai/job/aiml-software-engineer-graduate-intern-aicad-integration-at-falcomm-rvgkr2da3/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA |  | Nov&nbsp;18 |
 | **Bosch** | [AI Application Intern (8 months/40 hours per week)](https://www.wobo.ai/job/ai-application-intern-8-months40-hours-per-week-at-bosch-rtwhhp4nr/?utm_source=github&utm_medium=list&utm_campaign=internships) | Farmington Hills, MI |  | Nov&nbsp;17 |
 | **Marvell** | [AI Infrastructure Engineer Intern, MS - Summer 2027](https://www.wobo.ai/job/ai-infrastructure-engineer-intern-ms-summer-2027-at-marvell-rum6xcytb/?utm_source=github&utm_medium=list&utm_campaign=internships) | Santa Clara, CA | \$34 to \$68/hr | Nov&nbsp;16 |
 | **CareSource** | [2027 Summer Internship Program - AI & Business Process Intern](https://www.wobo.ai/job/2027-summer-internship-program-ai-business-process-intern-at-caresource-rugrgk1de/?utm_source=github&utm_medium=list&utm_campaign=internships) | Remote (US) |  | Nov&nbsp;16 |
