@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,280 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,286 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (290) · [AI and ML](#ai-and-ml-internships) (167) · [Data](#data-internships) (129) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (66) · [Hardware](#hardware-internships) (406) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (181) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (292) · [AI and ML](#ai-and-ml-internships) (168) · [Data](#data-internships) (129) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (67) · [Hardware](#hardware-internships) (408) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (181) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,11 +13,14 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Emerson** | [Software Engineering Intern](https://www.wobo.ai/job/software-engineering-intern-at-emerson-rwt9zrho1/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX (hybrid) |  | Nov&nbsp;18 |
+| **Bask Health** | [Solutions Engineering Intern](https://www.wobo.ai/job/solutions-engineering-intern-at-bask-health-rwr1qixa5/?utm_source=github&utm_medium=list&utm_campaign=internships) | Remote (US) |  | Nov&nbsp;18 |
+| **Texas Instruments** | [Systems Engineering Intern - Power](https://www.wobo.ai/job/systems-engineering-intern-power-at-texas-instruments-rwomzai7r/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Dallas, TX |  | Nov&nbsp;18 |
+| **GM Financial** | [Intern - Software Development Engineer](https://www.wobo.ai/job/intern-software-development-engineer-at-gm-financial-rwkbzsxu4/?utm_source=github&utm_medium=list&utm_campaign=internships) | Arlington, TX (hybrid) +1 |  | Nov&nbsp;18 |
 | **apexanalytix** | [Product Management (DevOps) Intern - Summer 2027](https://www.wobo.ai/job/product-management-devops-intern-summer-2027-at-apexanalytix-rw76qowtj/?utm_source=github&utm_medium=list&utm_campaign=internships) | Greensboro, NC |  | Nov&nbsp;18 |
 | **Oracle** | [OCI Intern Conversion - Undergrad Software Engineer Full-Time - Nashville, TN - February 2027](https://www.wobo.ai/job/oci-intern-conversion-undergrad-software-engineer-full-time-nashville-tn-february-2027-at-rv8bx2kq6/?utm_source=github&utm_medium=list&utm_campaign=internships) | Nashville, TN | \$74K to \$148K/yr | Nov&nbsp;18 |
 | **Lean TECHniques** | [Software Intern - Hybrid](https://www.wobo.ai/job/software-intern-hybrid-at-lean-techniques-rwenvsqj4/?utm_source=github&utm_medium=list&utm_campaign=internships) | Johnston, IA (hybrid) |  | Nov&nbsp;17 |
 | **Arcadis** | [Control, Automation & Energy Systems Engineering Intern](https://www.wobo.ai/job/control-automation-energy-systems-engineering-intern-at-arcadis-ru6cj4kvz/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Los Angeles, CA (hybrid) | \$26 to \$37/hr | Nov&nbsp;17 |
-| **GM Financial** | [Intern - Software Development Engineer](https://www.wobo.ai/job/intern-software-development-engineer-at-gm-financial-rsl3tshj1/?utm_source=github&utm_medium=list&utm_campaign=internships) | Irving, TX (hybrid) |  | Nov&nbsp;17 |
 | **Forterra** | [2027 Intern - Software](https://www.wobo.ai/job/2027-intern-software-at-forterra-rs88ak01f/?utm_source=github&utm_medium=list&utm_campaign=internships) | East Palo Alto, CA +4 |  | Nov&nbsp;17 |
 | **Clera** | [Full-Stack Software Engineering Intern](https://www.wobo.ai/job/full-stack-software-engineering-intern-at-clera-rtxl5jh5k/?utm_source=github&utm_medium=list&utm_campaign=internships) | New York City, NY (remote) | \$50/hr | Nov&nbsp;16 |
 | **HexArmor** | [Software Engineering Intern](https://www.wobo.ai/job/software-engineering-intern-at-hexarmor-rtfolife4/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA (hybrid) |  | Nov&nbsp;16 |
@@ -162,7 +165,6 @@
 | **Nintendo** | [Intern - Software Engineer, Performance Tools (NTD)](https://www.wobo.ai/job/intern-software-engineer-performance-tools-ntd-at-nintendo-okkqflqda/?utm_source=github&utm_medium=list&utm_campaign=internships) | Redmond, WA | \$45/hr | Oct&nbsp;30 |
 | ↳ | [Intern - Software Engineer, Graphics (NTD)](https://www.wobo.ai/job/intern-software-engineer-graphics-ntd-at-nintendo-okkqeeurb/?utm_source=github&utm_medium=list&utm_campaign=internships) | Redmond, WA | \$45/hr | Oct&nbsp;30 |
 | **Garda Capital Partners** | [Infrastructure Engineer Intern](https://www.wobo.ai/job/infrastructure-engineer-intern-at-garda-capital-partners-okdoxal47/?utm_source=github&utm_medium=list&utm_campaign=internships) | Wayzata, MN | \$40/hr | Oct&nbsp;30 |
-| **Emerson** | [Software Engineering Intern](https://www.wobo.ai/job/software-engineering-intern-at-emerson-o7u055ppc/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX (hybrid) |  | Oct&nbsp;30 |
 | **RTX** | [Systems Engineer Intern (Summer 2027) - Tac Comm - Onsite](https://www.wobo.ai/job/systems-engineer-intern-summer-2027-tac-comm-onsite-at-rtx-oshz21r9r/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Cedar Rapids, IA | \$37K to \$82K/yr | Oct&nbsp;29 |
 | **Philips** | [Intern - Systems Engineer – New Kensington, PA – Summer 2027](https://www.wobo.ai/job/intern-systems-engineer-new-kensington-pa-summer-2027-at-philips-olpj224qy/?utm_source=github&utm_medium=list&utm_campaign=internships) | New Kensington, PA | \$26 to \$46/hr | Oct&nbsp;29 |
 | **Samsung Semiconductor** | [Intern, Systems Software Engineering](https://www.wobo.ai/job/intern-systems-software-engineering-at-samsung-semiconductor-obm6sn0vv/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | San Jose, CA | \$28 to \$68/hr | Oct&nbsp;29 |
@@ -310,6 +312,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Nabors** | [Intern - AI Center of Excellence](https://www.wobo.ai/job/intern-ai-center-of-excellence-at-nabors-rwr9pjcar/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Nov&nbsp;18 |
 | **Bosch** | [AI Application Intern (8 months/40 hours per week)](https://www.wobo.ai/job/ai-application-intern-8-months40-hours-per-week-at-bosch-rtwhhp4nr/?utm_source=github&utm_medium=list&utm_campaign=internships) | Farmington Hills, MI |  | Nov&nbsp;17 |
 | **Marvell** | [AI Infrastructure Engineer Intern, MS - Summer 2027](https://www.wobo.ai/job/ai-infrastructure-engineer-intern-ms-summer-2027-at-marvell-rum6xcytb/?utm_source=github&utm_medium=list&utm_campaign=internships) | Santa Clara, CA | \$34 to \$68/hr | Nov&nbsp;16 |
 | **CareSource** | [2027 Summer Internship Program - AI & Business Process Intern](https://www.wobo.ai/job/2027-summer-internship-program-ai-business-process-intern-at-caresource-rugrgk1de/?utm_source=github&utm_medium=list&utm_campaign=internships) | Remote (US) |  | Nov&nbsp;16 |
@@ -668,6 +671,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Search Jobs - Uber Careers - Cloud Sign In** | [2027 Product Management Intern, US](https://www.wobo.ai/job/2027-product-management-intern-us-at-search-jobs-uber-careers-cloud-sign-in-rvki1jgly/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA | \$57/hr | Nov&nbsp;18 |
 | **GM Financial** | [Intern - Product Owner](https://www.wobo.ai/job/intern-product-owner-at-gm-financial-rsl3r3li2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Arlington, TX (hybrid) |  | Nov&nbsp;17 |
 | **Zoox** | [UX Designer Intern \[Summer 2027\]](https://www.wobo.ai/job/ux-designer-intern-summer-2027-at-zoox-rte2cq7na/?utm_source=github&utm_medium=list&utm_campaign=internships) | Foster City, CA (hybrid) | \$6K to \$8K/mo | Nov&nbsp;16 |
 | **Great American Insurance Group** | [Technical Product Management Intern - Summer 2027](https://www.wobo.ai/job/technical-product-management-intern-summer-2027-at-great-american-insurance-group-ruuc79krl/?utm_source=github&utm_medium=list&utm_campaign=internships) | Cincinnati, OH (hybrid) |  | Nov&nbsp;16 |
@@ -741,6 +745,9 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Facllc** | [Electrical Engineer Intern](https://www.wobo.ai/job/electrical-engineer-intern-at-facllc-rwsdgcdg2/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA +15 |  | Nov&nbsp;18 |
+| **Nabors** | [Intern - Electrical Engineering (Nabors)](https://www.wobo.ai/job/intern-electrical-engineering-nabors-at-nabors-rwr9szhi1/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Nov&nbsp;18 |
+| ↳ | [Intern - Mechanical Engineering (Nabors)](https://www.wobo.ai/job/intern-mechanical-engineering-nabors-at-nabors-rwr9qj7fz/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Nov&nbsp;18 |
 | **Impulse Space** | [Manufacturing Engineering Intern (Summer 2027)](https://www.wobo.ai/job/manufacturing-engineering-intern-summer-2027-at-impulse-space-rw8khnzic/?utm_source=github&utm_medium=list&utm_campaign=internships) | Boulder, CO |  | Nov&nbsp;18 |
 | **Veolia** | [Mechanical Engineering Intern](https://www.wobo.ai/job/mechanical-engineering-intern-at-veolia-rxg2odo11/?utm_source=github&utm_medium=list&utm_campaign=internships) | Boulder, CO |  | Nov&nbsp;17 |
 | **Coffman Engineers, Inc** | [Electrical Engineering Intern](https://www.wobo.ai/job/electrical-engineering-intern-at-coffman-engineers-inc-rx5c5oetx/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA |  | Nov&nbsp;17 |
@@ -861,7 +868,6 @@
 | **Ralliant** | [Manufacturing Engineering Intern - Summer 2027](https://www.wobo.ai/job/manufacturing-engineering-intern-summer-2027-at-ralliant-r3gjss9q4/?utm_source=github&utm_medium=list&utm_campaign=internships) | Plainville, CT |  | Nov&nbsp;11 |
 | **Facllc** | [Mechanical Engineer Intern E&U](https://www.wobo.ai/job/mechanical-engineer-intern-eu-at-facllc-r3agbuker/?utm_source=github&utm_medium=list&utm_campaign=internships) | Boston, MA |  | Nov&nbsp;11 |
 | ↳ | [Mechanical Engineer Intern](https://www.wobo.ai/job/mechanical-engineer-intern-at-facllc-r3agatw6z/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA +15 |  | Nov&nbsp;11 |
-| ↳ | [Electrical Engineer Intern](https://www.wobo.ai/job/electrical-engineer-intern-at-facllc-r3ag7lhgx/?utm_source=github&utm_medium=list&utm_campaign=internships) | Tampa, FL +13 |  | Nov&nbsp;11 |
 | ↳ | [Mechanical Engineer Intern-Energy & Utilities](https://www.wobo.ai/job/mechanical-engineer-intern-energy-utilities-at-facllc-r3ag6bcme/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chapel Hill, NC |  | Nov&nbsp;11 |
 | ↳ | [Electrical Engineer Intern-Power Systems](https://www.wobo.ai/job/electrical-engineer-intern-power-systems-at-facllc-r3ag396rg/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chapel Hill, NC |  | Nov&nbsp;11 |
 | ↳ | [Process Engineer Intern](https://www.wobo.ai/job/process-engineer-intern-at-facllc-r3afm81lc/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chapel Hill, NC +3 |  | Nov&nbsp;11 |
