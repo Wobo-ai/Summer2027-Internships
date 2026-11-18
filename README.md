@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,277 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,280 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (290) · [AI and ML](#ai-and-ml-internships) (167) · [Data](#data-internships) (129) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (66) · [Hardware](#hardware-internships) (404) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (180) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (290) · [AI and ML](#ai-and-ml-internships) (167) · [Data](#data-internships) (129) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (66) · [Hardware](#hardware-internships) (406) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (181) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -742,7 +742,9 @@
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
 | **Impulse Space** | [Manufacturing Engineering Intern (Summer 2027)](https://www.wobo.ai/job/manufacturing-engineering-intern-summer-2027-at-impulse-space-rw8khnzic/?utm_source=github&utm_medium=list&utm_campaign=internships) | Boulder, CO |  | Nov&nbsp;18 |
+| **Veolia** | [Mechanical Engineering Intern](https://www.wobo.ai/job/mechanical-engineering-intern-at-veolia-rxg2odo11/?utm_source=github&utm_medium=list&utm_campaign=internships) | Boulder, CO |  | Nov&nbsp;17 |
 | **Coffman Engineers, Inc** | [Electrical Engineering Intern](https://www.wobo.ai/job/electrical-engineering-intern-at-coffman-engineers-inc-rx5c5oetx/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA |  | Nov&nbsp;17 |
+| **Lightmatter** | [Product & Test Engineering, Intern Summer 2027](https://www.wobo.ai/job/product-test-engineering-intern-summer-2027-at-lightmatter-rxg23pgi4/?utm_source=github&utm_medium=list&utm_campaign=internships) | Mountain View, CA (hybrid) | \$43 to \$47/hr | Nov&nbsp;17 |
 | **Basis Research Institute** | [Electronics & Sensing Engineer (Intern or Contractor)](https://www.wobo.ai/job/electronics-sensing-engineer-intern-or-contractor-at-basis-research-institute-rwekzqugs/?utm_source=github&utm_medium=list&utm_campaign=internships) | New York City, NY |  | Nov&nbsp;17 |
 | **Nokia** | [Mechanical Design Intern](https://www.wobo.ai/job/mechanical-design-intern-at-nokia-rswqcl86w/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Jose, CA |  | Nov&nbsp;17 |
 | **Ralliant** | [Hardware Verification Engineer Co-op (Summer 2027)](https://www.wobo.ai/job/hardware-verification-engineer-co-op-summer-2027-at-ralliant-rsu42rb8k/?utm_source=github&utm_medium=list&utm_campaign=internships) | Solon, OH |  | Nov&nbsp;17 |
@@ -1154,6 +1156,7 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **Vertiv** | [UX Design Intern (Winter/Spring 2027)](https://www.wobo.ai/job/ux-design-intern-winterspring-2027-at-vertiv-rx3n75cp8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Westerville, OH |  | Nov&nbsp;18 |
 | **Tremco CPG Inc** | [Process Engineer Co-op Spring 2027](https://www.wobo.ai/job/process-engineer-co-op-spring-2027-at-tremco-cpg-inc-rw8rfwpgn/?utm_source=github&utm_medium=list&utm_campaign=internships) | Cleveland, OH | \$21 to \$26/hr | Nov&nbsp;18 |
+| **Cloudflare** | [AI & Automation Intern, Communications (Winter 2027)](https://www.wobo.ai/job/ai-automation-intern-communications-winter-2027-at-cloudflare-rxfsqzmce/?utm_source=github&utm_medium=list&utm_campaign=internships) | CA | \$27/hr | Nov&nbsp;17 |
 | **Ralliant** | [Hardware Verification Engineer Co-Op (Spring 2027)](https://www.wobo.ai/job/hardware-verification-engineer-co-op-spring-2027-at-ralliant-rsu43skr5/?utm_source=github&utm_medium=list&utm_campaign=internships) | Solon, OH |  | Nov&nbsp;17 |
 | **bioMérieux** | [Machine Learning Co-Op](https://www.wobo.ai/job/machine-learning-co-op-at-biomerieux-rseh7v75i/?utm_source=github&utm_medium=list&utm_campaign=internships) | Durham, NC | \$22/hr | Nov&nbsp;17 |
 | **Dematic** | [Controls Engineering Intern/Co-op](https://www.wobo.ai/job/controls-engineering-internco-op-at-dematic-rupsvqs2j/?utm_source=github&utm_medium=list&utm_campaign=internships) | Grand Rapids, MI (hybrid) | \$20 to \$29/hr | Nov&nbsp;16 |
