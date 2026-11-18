@@ -1,0 +1,27 @@
+name: Suggest a company
+description: A company that hires for these roles is missing from the list.
+title: "Suggest a company: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every role on this list is read from the employer's own career site. Tell us the company and its careers page: once we read it, its open internships join the list on their own. We do not add single roles by hand.
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: true
+  - type: input
+    id: careers
+    attributes:
+      label: Careers page
+      description: The page on the company's own site that lists its open roles.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything else
+      description: Optional.

@@ -1,0 +1,35 @@
+name: Report a closed or wrong role
+description: A role on the list is closed, or something about it is wrong.
+title: "Closed or wrong role: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. A role leaves the list on its own once the employer closes it, usually within a day. If it is still here after that, or a detail is wrong, tell us below.
+  - type: input
+    id: link
+    attributes:
+      label: Link of the role
+      description: The wobo.ai link from the list, or the company and role title.
+      placeholder: https://www.wobo.ai/job/...
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What is wrong
+      options:
+        - The role is closed
+        - It is not an internship or a co-op
+        - It is not a tech role
+        - The company name is wrong
+        - The location is wrong
+        - The pay is wrong
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Anything that helps us check it. Optional.
