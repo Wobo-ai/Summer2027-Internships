@@ -5,7 +5,7 @@
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (293) · [AI and ML](#ai-and-ml-internships) (179) · [Data](#data-internships) (130) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (73) · [Hardware](#hardware-internships) (425) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (181) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (294) · [AI and ML](#ai-and-ml-internships) (179) · [Data](#data-internships) (130) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (73) · [Hardware](#hardware-internships) (425) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (180) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -75,6 +75,7 @@
 | **Honeywell** | [Software Engineer Co-Op - Spring/Summer 2027](https://www.wobo.ai/job/software-engineer-co-op-springsummer-2027-at-honeywell-r8i5qhint/?utm_source=github&utm_medium=list&utm_campaign=internships) | Pittsford, NY | \$20 to \$45/hr | Nov&nbsp;11 |
 | ↳ | [Software Engineer & Computer Science - Summer 2027 Intern](https://www.wobo.ai/job/software-engineer-computer-science-summer-2027-intern-at-honeywell-r8hzz532a/?utm_source=github&utm_medium=list&utm_campaign=internships) | United States | \$26 to \$45/hr | Nov&nbsp;11 |
 | ↳ | [Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)](https://www.wobo.ai/job/software-engineer-computer-science-summer-2027-intern-us-person-required-at-honeywell-r8hzycqd3/?utm_source=github&utm_medium=list&utm_campaign=internships) | United States | \$26 to \$45/hr | Nov&nbsp;11 |
+| **Brex** | [Software Engineer, Intern (Summer 2027)](https://www.wobo.ai/job/software-engineer-intern-summer-2027-at-brex-s36eodlpe/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA (hybrid) | \$55/hr | Nov&nbsp;11 |
 | **Formlabs** | [2027 (Summer) - Manufacturing - Manufacturing Test Software Intern](https://www.wobo.ai/job/2027-summer-manufacturing-manufacturing-test-software-intern-at-formlabs-rc1ci598f/?utm_source=github&utm_medium=list&utm_campaign=internships) | Somerville, MA | \$2K/wk | Nov&nbsp;11 |
 | **BNY** | [2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ](https://www.wobo.ai/job/2027-bny-summer-internship-program-engineering-developer-jersey-city-nj-at-bny-r7ykhcle8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Jersey City, NJ (hybrid) | \$52K to \$110K/yr | Nov&nbsp;11 |
 | ↳ | [2027 BNY Analyst Program - Engineering (Developer) - Pittsburgh, PA](https://www.wobo.ai/job/2027-bny-analyst-program-engineering-developer-pittsburgh-pa-at-bny-r74y08p96/?utm_source=github&utm_medium=list&utm_campaign=internships) | Pittsburgh, PA (hybrid) |  | Nov&nbsp;11 |
@@ -1376,7 +1377,6 @@
 | **Entrust** | [Firmware Engineering Co-op](https://www.wobo.ai/job/firmware-engineering-co-op-at-entrust-iisvh9bqn/?utm_source=github&utm_medium=list&utm_campaign=internships) | Shakopee, MN (hybrid) | \$25/hr | Oct&nbsp;6 |
 | **Bose** | [Data Analytics Engineer Co-op](https://www.wobo.ai/job/data-analytics-engineer-co-op-at-bose-isdex9q7q/?utm_source=github&utm_medium=list&utm_campaign=internships) | United States | \$29 to \$37/hr | Oct&nbsp;6 |
 | **bioMérieux** | [Data Science Co-Op](https://www.wobo.ai/job/data-science-co-op-at-biomerieux-i9faxkid1/?utm_source=github&utm_medium=list&utm_campaign=internships) | Hazelwood, MO | \$23/hr | Oct&nbsp;6 |
-| **Anduril Industries** | [Winter 2027 Quality & Test Engineer Co-op](https://www.wobo.ai/job/winter-2027-quality-test-engineer-co-op-at-anduril-industries-i5sjs0j3h/?utm_source=github&utm_medium=list&utm_campaign=internships) | Ashville, OH | \$28 to \$40/hr | Oct&nbsp;5 |
 
 [Back to sections](#sections)
 
