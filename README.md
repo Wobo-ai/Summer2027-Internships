@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,297 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,295 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (288) · [AI and ML](#ai-and-ml-internships) (176) · [Data](#data-internships) (128) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (71) · [Hardware](#hardware-internships) (416) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (177) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (288) · [AI and ML](#ai-and-ml-internships) (176) · [Data](#data-internships) (128) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (71) · [Hardware](#hardware-internships) (414) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (177) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -1160,8 +1160,6 @@
 | **Michael Baker International** | [Electrical Associate (Spring/Summer 2027)](https://www.wobo.ai/job/electrical-associate-springsummer-2027-at-michael-baker-international-i0g3vd9jv/?utm_source=github&utm_medium=list&utm_campaign=internships) | Newark, NJ | \$72K to \$88K/yr | Oct&nbsp;6 |
 | **Arc Boat Company** | [Powertrain Electrical Engineer Intern](https://www.wobo.ai/job/powertrain-electrical-engineer-intern-at-arc-boat-company-i4a5yb52o/?utm_source=github&utm_medium=list&utm_campaign=internships) | Torrance, CA | \$40/hr | Oct&nbsp;5 |
 | ↳ | [Electrical Integration Engineering Intern](https://www.wobo.ai/job/electrical-integration-engineering-intern-at-arc-boat-company-i4a5wi5s3/?utm_source=github&utm_medium=list&utm_campaign=internships) | Torrance, CA | \$40/hr | Oct&nbsp;5 |
-| ↳ | [Vehicle Controls Engineering Intern](https://www.wobo.ai/job/vehicle-controls-engineering-intern-at-arc-boat-company-i4a60kkhd/?utm_source=github&utm_medium=list&utm_campaign=internships) | Torrance, CA | \$42/hr | Oct&nbsp;5 |
-| ↳ | [Mechanical Engineering Intern - Powertrain](https://www.wobo.ai/job/mechanical-engineering-intern-powertrain-at-arc-boat-company-i4a5x347k/?utm_source=github&utm_medium=list&utm_campaign=internships) | Torrance, CA | \$36/hr | Oct&nbsp;5 |
 | **TTM Technologies, Inc.** | [Process Engineer Intern (Jan-May 2027)](https://www.wobo.ai/job/process-engineer-intern-jan-may-2027-at-ttm-technologies-inc-igxtdyusq/?utm_source=github&utm_medium=list&utm_campaign=internships) | Syracuse, NY | \$40K to \$63K/yr | Oct&nbsp;5 |
 | **Lumentum** | [Internship - Semiconductor Fab Process Engineer](https://www.wobo.ai/job/internship-semiconductor-fab-process-engineer-at-lumentum-i8o7c4k27/?utm_source=github&utm_medium=list&utm_campaign=internships) | Greensboro, NC |  | Oct&nbsp;5 |
 | ↳ | [Internship - MOCVD Process Engineer](https://www.wobo.ai/job/internship-mocvd-process-engineer-at-lumentum-i8o7baswx/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Greensboro, NC |  | Oct&nbsp;5 |
