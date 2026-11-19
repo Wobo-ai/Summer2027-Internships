@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,284 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 12:52 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,286 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 1:45 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (292) · [AI and ML](#ai-and-ml-internships) (171) · [Data](#data-internships) (128) · [Security](#security-internships) (42) · [Product and design](#product-and-design-internships) (67) · [Hardware](#hardware-internships) (408) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (176) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (292) · [AI and ML](#ai-and-ml-internships) (171) · [Data](#data-internships) (128) · [Security](#security-internships) (42) · [Product and design](#product-and-design-internships) (67) · [Hardware](#hardware-internships) (409) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (177) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -490,6 +490,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Great American Insurance Group** | [Data Engineer Developer Intern – Summer 2027](https://www.wobo.ai/job/data-engineer-developer-intern-summer-2027-at-great-american-insurance-group-ryu5byhbj/?utm_source=github&utm_medium=list&utm_campaign=internships) | Cincinnati, OH (hybrid) |  | Nov&nbsp;17 |
 | **Bristol Myers Squibb** | [Data Science Intern (MS/PhD)-Summer 2027](https://www.wobo.ai/job/data-science-intern-msphd-summer-2027-at-bristol-myers-squibb-rykv2bb1q/?utm_source=github&utm_medium=list&utm_campaign=internships) | Remote (US) | \$36 to \$45/hr | Nov&nbsp;17 |
 | ↳ | [Data Science Intern (Undergrad)-Summer 2027](https://www.wobo.ai/job/data-science-intern-undergrad-summer-2027-at-bristol-myers-squibb-rykv1i97v/?utm_source=github&utm_medium=list&utm_campaign=internships) | Remote (US) | \$24 to \$30/hr | Nov&nbsp;17 |
 | **Attain Partners** | [Summer 2027 Data Analytics Intern](https://www.wobo.ai/job/summer-2027-data-analytics-intern-at-attain-partners-rxh9knrpb/?utm_source=github&utm_medium=list&utm_campaign=internships) | McLean, VA (hybrid) | \$17/hr | Nov&nbsp;17 |
@@ -578,7 +579,6 @@
 | **Divergent** | [Summer 2027 Business Intelligence Intern](https://www.wobo.ai/job/summer-2027-business-intelligence-intern-at-divergent-ok8zhmtju/?utm_source=github&utm_medium=list&utm_campaign=internships) | Torrance, CA | \$39 to \$45/hr | Oct&nbsp;30 |
 | **Fussball Club Cincinnati LLC (“FC Cincinnati”)** | [Data Analyst Intern](https://www.wobo.ai/job/data-analyst-intern-at-fussball-club-cincinnati-llc-fc-cincinnati-ok8zn0owg/?utm_source=github&utm_medium=list&utm_campaign=internships) | Cincinnati, OH |  | Oct&nbsp;30 |
 | **Arch Insurance Group Inc.** | [Data Analytics Intern](https://www.wobo.ai/job/data-analytics-intern-at-arch-insurance-group-inc-o474zk514/?utm_source=github&utm_medium=list&utm_campaign=internships) | Greensboro, NC | \$26 to \$28/hr | Oct&nbsp;28 |
-| **Leidos** | [Data Engineer Intern](https://www.wobo.ai/job/data-engineer-intern-at-leidos-o1o91nqak/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Fort Belvoir, VA | \$42K to \$75K/yr | Oct&nbsp;27 |
 | **Federal Home Loan Bank of Indianapolis** | [MPP Data Analytics Intern](https://www.wobo.ai/job/mpp-data-analytics-intern-at-federal-home-loan-bank-of-indianapolis-nw91vwcu2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Indianapolis, IN (hybrid) |  | Oct&nbsp;27 |
 | **Applied Materials** | [Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA)](https://www.wobo.ai/job/summer-2027-data-scientist-intern-masters-santa-clara-ca-at-applied-materials-o0wjyn4k6/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Santa Clara, CA |  | Oct&nbsp;27 |
 | ↳ | [Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX)](https://www.wobo.ai/job/summer-2027-data-scientist-intern-bachelors-austin-tx-at-applied-materials-o0wjvlufz/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX |  | Oct&nbsp;27 |
@@ -756,6 +756,7 @@
 | **Veolia** | [Mechanical Engineering Intern](https://www.wobo.ai/job/mechanical-engineering-intern-at-veolia-rxg2odo11/?utm_source=github&utm_medium=list&utm_campaign=internships) | Boulder, CO |  | Nov&nbsp;17 |
 | **Sierra Nevada Corporation** | [Test Engineer Intern (Summer 2027)](https://www.wobo.ai/job/test-engineer-intern-summer-2027-at-sierra-nevada-corporation-rylnijj2l/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Sparks, NV |  | Nov&nbsp;17 |
 | **PCI Pharma** | [Process Engineer Intern](https://www.wobo.ai/job/process-engineer-intern-at-pci-pharma-rxtzgxill/?utm_source=github&utm_medium=list&utm_campaign=internships) | Rockford, IL | \$20/hr | Nov&nbsp;17 |
+| **Northrop Grumman** | [2027 Propulsion Test Engineer Intern - Edwards AFB CA](https://www.wobo.ai/job/2027-propulsion-test-engineer-intern-edwards-afb-ca-at-northrop-grumman-ryu3x4a9s/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Edwards Air Force Base, CA | \$22 to \$39/hr | Nov&nbsp;17 |
 | **GE Vernova** | [GE Vernova Manufacturing Engineer Intern - Summer 2027](https://www.wobo.ai/job/ge-vernova-manufacturing-engineer-intern-summer-2027-at-ge-vernova-rycztgnrw/?utm_source=github&utm_medium=list&utm_campaign=internships) | Clearwater, FL | \$1K to \$2K/wk | Nov&nbsp;17 |
 | **First Quality** | [Process Engineer Intern](https://www.wobo.ai/job/process-engineer-intern-at-first-quality-ryjbebnmb/?utm_source=github&utm_medium=list&utm_campaign=internships) | Lock Haven, PA |  | Nov&nbsp;17 |
 | ↳ | [Controls Engineer Intern](https://www.wobo.ai/job/controls-engineer-intern-at-first-quality-ryjbbcozs/?utm_source=github&utm_medium=list&utm_campaign=internships) | Lock Haven, PA |  | Nov&nbsp;17 |
@@ -1166,6 +1167,7 @@
 | **Vertiv** | [UX Design Intern (Winter/Spring 2027)](https://www.wobo.ai/job/ux-design-intern-winterspring-2027-at-vertiv-rx3n75cp8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Westerville, OH |  | Nov&nbsp;18 |
 | **Tremco CPG Inc** | [Process Engineer Co-op Spring 2027](https://www.wobo.ai/job/process-engineer-co-op-spring-2027-at-tremco-cpg-inc-rw8rfwpgn/?utm_source=github&utm_medium=list&utm_campaign=internships) | Cleveland, OH | \$21 to \$26/hr | Nov&nbsp;18 |
 | **Rehlko** | [Manufacturing Engineering Co-Op 2027](https://www.wobo.ai/job/manufacturing-engineering-co-op-2027-at-rehlko-ryoo2yh0g/?utm_source=github&utm_medium=list&utm_campaign=internships) | Sheboygan, WI |  | Nov&nbsp;17 |
+| **Applied Materials** | [2027 Spring System Data Scientist /Analyst Co-op, MS or Phd - Gloucester, MA](https://www.wobo.ai/job/2027-spring-system-data-scientist-analyst-co-op-ms-or-phd-gloucester-ma-at-applied-ryu2vut1n/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Gloucester, MA | \$33 to \$50/hr | Nov&nbsp;17 |
 | **Cloudflare** | [AI & Automation Intern, Communications (Winter 2027)](https://www.wobo.ai/job/ai-automation-intern-communications-winter-2027-at-cloudflare-rxfsqzmce/?utm_source=github&utm_medium=list&utm_campaign=internships) | CA | \$27/hr | Nov&nbsp;17 |
 | **Ralliant** | [Hardware Verification Engineer Co-Op (Spring 2027)](https://www.wobo.ai/job/hardware-verification-engineer-co-op-spring-2027-at-ralliant-rsu43skr5/?utm_source=github&utm_medium=list&utm_campaign=internships) | Solon, OH |  | Nov&nbsp;17 |
 | **bioMérieux** | [Machine Learning Co-Op](https://www.wobo.ai/job/machine-learning-co-op-at-biomerieux-rseh7v75i/?utm_source=github&utm_medium=list&utm_campaign=internships) | Durham, NC | \$22/hr | Nov&nbsp;17 |
