@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,295 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,293 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (288) · [AI and ML](#ai-and-ml-internships) (176) · [Data](#data-internships) (128) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (71) · [Hardware](#hardware-internships) (414) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (177) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (287) · [AI and ML](#ai-and-ml-internships) (175) · [Data](#data-internships) (128) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (71) · [Hardware](#hardware-internships) (414) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (177) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -300,7 +300,6 @@
 | ↳ | [Software Development Engineer Intern (San Jose, CA)](https://www.wobo.ai/job/software-development-engineer-intern-san-jose-ca-at-f5-ig8xrb7r4/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Jose, CA (hybrid) | \$42 to \$55/hr | Oct&nbsp;5 |
 | **Cadence** | [CST Application Engineer Intern - Silicon](https://www.wobo.ai/job/cst-application-engineer-intern-silicon-at-cadence-ihtosa2o3/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Jose, CA | \$29 to \$53/hr | Oct&nbsp;5 |
 | **AeroVironment** | [Hypersonic RF Software Engineering Intern](https://www.wobo.ai/job/hypersonic-rf-software-engineering-intern-at-aerovironment-i91lipxun/?utm_source=github&utm_medium=list&utm_campaign=internships) | Germantown, MD |  | Oct&nbsp;5 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra](https://www.wobo.ai/job/2027-summer-intern-msphd-software-engineer-eval-data-infra-at-waymo-i5rih8xbq/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA | \$70/hr | Oct&nbsp;5 |
 
 [Back to sections](#sections)
 
@@ -483,7 +482,6 @@
 | **Faire** | [Applied AI/ML Scientist, Intern](https://www.wobo.ai/job/applied-aiml-scientist-intern-at-faire-jats8z4u3/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | San Francisco, CA | \$75/hr | Oct&nbsp;6 |
 | **Lyft** | [PhD Machine Learning Software Engineer Intern (Summer 2027)](https://www.wobo.ai/job/phd-machine-learning-software-engineer-intern-summer-2027-at-lyft-ifp56ka2z/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | San Francisco, CA | \$65 to \$68/hr | Oct&nbsp;6 |
 | **Fenwick** | [AI Enablement Intern](https://www.wobo.ai/job/ai-enablement-intern-at-fenwick-ih92n7mme/?utm_source=github&utm_medium=list&utm_campaign=internships) | CA | \$21 to \$25/hr | Oct&nbsp;5 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery](https://www.wobo.ai/job/2027-summer-intern-msphd-ml-systems-behavior-discovery-at-waymo-i5rigpdwu/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA | \$70/hr | Oct&nbsp;5 |
 
 [Back to sections](#sections)
 
