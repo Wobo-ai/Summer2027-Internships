@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,281 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 4:53 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,284 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (285) · [AI and ML](#ai-and-ml-internships) (176) · [Data](#data-internships) (126) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (68) · [Hardware](#hardware-internships) (409) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (176) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (285) · [AI and ML](#ai-and-ml-internships) (176) · [Data](#data-internships) (127) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (69) · [Hardware](#hardware-internships) (410) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (176) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -488,6 +488,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Syngenta** | [Data Science Intern](https://www.wobo.ai/job/data-science-intern-at-syngenta-s17z7q0np/?utm_source=github&utm_medium=list&utm_campaign=internships) | Greensboro, NC | \$20 to \$45/hr | Nov&nbsp;18 |
 | **State Street** | [Data Engineering & Product, Technology Intern - Full-time Internship (Jan - June 2027)](https://www.wobo.ai/job/data-engineering-product-technology-intern-full-time-internship-jan-june-2027-at-state-ryzjec0um/?utm_source=github&utm_medium=list&utm_campaign=internships) | Boston, MA +1 | \$42K to \$65K/yr | Nov&nbsp;17 |
 | **Great American Insurance Group** | [Data Engineer Developer Intern – Summer 2027](https://www.wobo.ai/job/data-engineer-developer-intern-summer-2027-at-great-american-insurance-group-ryu5byhbj/?utm_source=github&utm_medium=list&utm_campaign=internships) | Cincinnati, OH (hybrid) |  | Nov&nbsp;17 |
 | **Bristol Myers Squibb** | [Data Science Intern (MS/PhD)-Summer 2027](https://www.wobo.ai/job/data-science-intern-msphd-summer-2027-at-bristol-myers-squibb-rykv2bb1q/?utm_source=github&utm_medium=list&utm_campaign=internships) | Remote (US) | \$36 to \$45/hr | Nov&nbsp;17 |
@@ -669,6 +670,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Pyrotek** | [Intern - Product Management](https://www.wobo.ai/job/intern-product-management-at-pyrotek-s1apc12hk/?utm_source=github&utm_medium=list&utm_campaign=internships) | Spokane, WA | \$22/hr | Nov&nbsp;18 |
 | **Search Jobs - Uber Careers - Cloud Sign In** | [2027 Product Management Intern, US](https://www.wobo.ai/job/2027-product-management-intern-us-at-search-jobs-uber-careers-cloud-sign-in-rvki1jgly/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA | \$57/hr | Nov&nbsp;18 |
 | **State Street** | [UX/UI Design Intern - Full-time Internship (Jan - June 2027)](https://www.wobo.ai/job/uxui-design-intern-full-time-internship-jan-june-2027-at-state-street-ryzjdp081/?utm_source=github&utm_medium=list&utm_campaign=internships) | Burlington, MA | \$42K to \$65K/yr | Nov&nbsp;17 |
 | **CrowdStrike** | [MBA Product Manager Intern](https://www.wobo.ai/job/mba-product-manager-intern-at-crowdstrike-rynosd2oc/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Sunnyvale, CA (hybrid) | \$38 to \$45/hr | Nov&nbsp;17 |
@@ -744,6 +746,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Samsung Semiconductor** | [Intern, SSD Firmware Engineer](https://www.wobo.ai/job/intern-ssd-firmware-engineer-at-samsung-semiconductor-s1i3nqtu6/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Jose, CA | \$28 to \$68/hr | Nov&nbsp;18 |
 | **Cummins** | [EATON - Mechanical Engineering Internship (ECJV)](https://www.wobo.ai/job/eaton-mechanical-engineering-internship-ecjv-at-cummins-rxtow7ubs/?utm_source=github&utm_medium=list&utm_campaign=internships) | Galesburg, MI |  | Nov&nbsp;18 |
 | **Facllc** | [Electrical Engineer Intern](https://www.wobo.ai/job/electrical-engineer-intern-at-facllc-rwsdgcdg2/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA +15 |  | Nov&nbsp;18 |
 | **Nabors** | [Intern - Electrical Engineering (Nabors)](https://www.wobo.ai/job/intern-electrical-engineering-nabors-at-nabors-rwr9szhi1/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Nov&nbsp;18 |
