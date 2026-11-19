@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,321 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 2:52 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,322 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 4:48 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (293) · [AI and ML](#ai-and-ml-internships) (178) · [Data](#data-internships) (130) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (73) · [Hardware](#hardware-internships) (425) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (181) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (293) · [AI and ML](#ai-and-ml-internships) (179) · [Data](#data-internships) (130) · [Security](#security-internships) (41) · [Product and design](#product-and-design-internships) (73) · [Hardware](#hardware-internships) (425) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (181) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -435,6 +435,7 @@
 | **Skydio** | [PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027](https://www.wobo.ai/job/phd-autonomy-engineer-intern-deep-learning-computer-vision-2027-at-skydio-netoa0g03/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | San Mateo, CA | \$70/hr | Oct&nbsp;25 |
 | **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency](https://www.wobo.ai/job/2027-summer-intern-msphd-software-engineer-ml-frameworks-and-efficiency-at-waymo-mvwkpwyuq/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA (hybrid) | \$70 to \$85/hr | Oct&nbsp;23 |
 | **Bosch** | [Agentic AI R&D Intern](https://www.wobo.ai/job/agentic-ai-rd-intern-at-bosch-mvy5sn4qg/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Sunnyvale, CA | \$53 to \$70/hr | Oct&nbsp;23 |
+| **NIKE** | [Converse AI Enablement Graduate Internship](https://www.wobo.ai/job/converse-ai-enablement-graduate-internship-at-nike-s35sg8kfl/?utm_source=github&utm_medium=list&utm_campaign=internships) | Boston, MA | \$64K to \$126K/yr | Oct&nbsp;22 |
 | **Merck & Co., Inc.** | [2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern](https://www.wobo.ai/job/2027-future-talent-program-data-ai-and-genome-sciences-foundation-models-intern-at-merck-n4frd84wy/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Cambridge, MA | \$40K to \$111K/yr | Oct&nbsp;22 |
 | ↳ | [2027 Future Talent Program - AI/ML Biomedical Imaging and Computational Pathology - Intern](https://www.wobo.ai/job/2027-future-talent-program-aiml-biomedical-imaging-and-computational-pathology-intern-at-n4fr7wto1/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Cambridge, MA (hybrid) | \$40K to \$111K/yr | Oct&nbsp;22 |
 | ↳ | [2027 Future Talent Program - Data, AI, and Genome Sciences - Intern](https://www.wobo.ai/job/2027-future-talent-program-data-ai-and-genome-sciences-intern-at-merck-co-inc-n4fqqjdyb/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Cambridge, MA (hybrid) | \$40K to \$111K/yr | Oct&nbsp;22 |
