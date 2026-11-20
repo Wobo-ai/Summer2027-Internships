@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,347 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 7:52 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,349 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 7:52 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (301) · [AI and ML](#ai-and-ml-internships) (180) · [Data](#data-internships) (136) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (74) · [Hardware](#hardware-internships) (426) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (184) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (302) · [AI and ML](#ai-and-ml-internships) (180) · [Data](#data-internships) (136) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (74) · [Hardware](#hardware-internships) (427) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (184) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,6 +13,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Uplinq Inc** | [Software Engineer Intern - ASU](https://www.wobo.ai/job/software-engineer-intern-asu-at-uplinq-inc-sajsd34if/?utm_source=github&utm_medium=list&utm_campaign=internships) | Scottsdale, AZ |  | Nov&nbsp;20 |
 | **Amperity** | [Intern - Software Development Engineer](https://www.wobo.ai/job/intern-software-development-engineer-at-amperity-s6v9chh4h/?utm_source=github&utm_medium=list&utm_campaign=internships) | Seattle, WA (hybrid) | \$55/hr | Nov&nbsp;19 |
 | **Church** | [Email Developer Intern](https://www.wobo.ai/job/email-developer-intern-at-church-s0rg6xbb2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Salt Lake City, UT (hybrid) |  | Nov&nbsp;19 |
 | **Mytra** | [Software Engineer Intern](https://www.wobo.ai/job/software-engineer-intern-at-mytra-s0b46wyyt/?utm_source=github&utm_medium=list&utm_campaign=internships) | Brisbane, CA |  | Nov&nbsp;19 |
@@ -785,6 +786,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Blue Energy** | [Mechanical Engineering Intern - Summer 27'](https://www.wobo.ai/job/mechanical-engineering-intern-summer-27-at-blue-energy-sbcb8zwpn/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chevy Chase, MD (hybrid) |  | Nov&nbsp;19 |
 | **Sierra Space** | [2027 Summer Internship - Propulsion Engineering](https://www.wobo.ai/job/2027-summer-internship-propulsion-engineering-at-sierra-space-s7yzc7tgr/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Centennial, CO | \$31/hr | Nov&nbsp;18 |
 | ↳ | [2027 Summer Internship - Mechanical Engineering](https://www.wobo.ai/job/2027-summer-internship-mechanical-engineering-at-sierra-space-s7yzbbofs/?utm_source=github&utm_medium=list&utm_campaign=internships) | Centennial, CO | \$31/hr | Nov&nbsp;18 |
 | ↳ | [2027 Summer Internship - Electrical Engineering](https://www.wobo.ai/job/2027-summer-internship-electrical-engineering-at-sierra-space-s7yz97w6p/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Centennial, CO | \$31/hr | Nov&nbsp;18 |
