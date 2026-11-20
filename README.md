@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,377 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:56 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,379 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:56 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (187) · [Data](#data-internships) (138) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (76) · [Hardware](#hardware-internships) (435) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (184) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (187) · [Data](#data-internships) (138) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (76) · [Hardware](#hardware-internships) (435) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (186) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -1248,6 +1248,8 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Watlow** | [Manufacturing Engineering Co-Op](https://www.wobo.ai/job/manufacturing-engineering-co-op-at-watlow-sbyg92db0/?utm_source=github&utm_medium=list&utm_campaign=internships) | Hannibal, MO |  | Nov&nbsp;20 |
+| ↳ | [Manufacturing Engineering Co-Op- COL](https://www.wobo.ai/job/manufacturing-engineering-co-op-col-at-watlow-sbyg8jvz5/?utm_source=github&utm_medium=list&utm_campaign=internships) | Columbia, MO |  | Nov&nbsp;20 |
 | **Neptune Medical** | [Robotics Product Development Engineering Co-op](https://www.wobo.ai/job/robotics-product-development-engineering-co-op-at-neptune-medical-schpwc4k5/?utm_source=github&utm_medium=list&utm_campaign=internships) | Burlingame, CA | \$38 to \$45/hr | Nov&nbsp;19 |
 | **Woods Hole Oceanographic Institution** | [Earth Science Data Analysis Co-op](https://www.wobo.ai/job/earth-science-data-analysis-co-op-at-woods-hole-oceanographic-institution-s8qpjqhq9/?utm_source=github&utm_medium=list&utm_campaign=internships) | Falmouth, MA | \$27 to \$33/hr | Nov&nbsp;18 |
 | **Siemens Healthineers** | [Mechanical Engineering Co-op Fall 2026](https://www.wobo.ai/job/mechanical-engineering-co-op-fall-2026-at-siemens-healthineers-s8rnzmfcb/?utm_source=github&utm_medium=list&utm_campaign=internships) | WAP C | \$59K to \$87K/yr | Nov&nbsp;18 |
