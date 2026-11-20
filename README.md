@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,345 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 12:53 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,347 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:43 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (299) · [AI and ML](#ai-and-ml-internships) (180) · [Data](#data-internships) (135) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (74) · [Hardware](#hardware-internships) (428) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (183) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (299) · [AI and ML](#ai-and-ml-internships) (182) · [Data](#data-internships) (135) · [Security](#security-internships) (45) · [Product and design](#product-and-design-internships) (74) · [Hardware](#hardware-internships) (429) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (183) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -319,6 +319,10 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Vertiv** | [AI Intern (Summer 2027)](https://www.wobo.ai/job/ai-intern-summer-2027-at-vertiv-sc6k99jq6/?utm_source=github&utm_medium=list&utm_campaign=internships) | Huntsville, AL |  | Nov&nbsp;20 |
+| **LinkedIn** | [AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA)](https://www.wobo.ai/job/aiml-engineer-intern-masters-summer-2027-mountain-view-ca-at-linkedin-sc6aku1s9/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA (hybrid) | \$57 to \$70/hr | Nov&nbsp;19 |
+| ↳ | [AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA)](https://www.wobo.ai/job/aiml-engineer-intern-generative-ai-phd-summer-2027-mountain-view-ca-at-linkedin-sc6alwcpo/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA (hybrid) | \$62 to \$75/hr | Nov&nbsp;19 |
+| ↳ | [AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA)](https://www.wobo.ai/job/aiml-engineer-intern-search-and-recommender-systems-phd-summer-2027-mountain-view-ca-at-sc6amcc45/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA (hybrid) | \$62 to \$75/hr | Nov&nbsp;19 |
 | **Schnucks** | [2027 Data Science - Generative AI Internship](https://www.wobo.ai/job/2027-data-science-generative-ai-internship-at-schnucks-s9qq44kc3/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | St. Louis, MO (hybrid) |  | Nov&nbsp;18 |
 | **Northrop Grumman** | [2027 AI/ML Engineering Intern - Morrisville NC](https://www.wobo.ai/job/2027-aiml-engineering-intern-morrisville-nc-at-northrop-grumman-s9vqpa8gn/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Morrisville, NC |  | Nov&nbsp;18 |
 | **Cisco** | [AI Researcher II (Intern) - United States](https://www.wobo.ai/job/ai-researcher-ii-intern-united-states-at-cisco-s7ywht271/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA (hybrid) | \$44K to \$185K/yr | Nov&nbsp;18 |
@@ -418,7 +422,6 @@
 | **AstraZeneca** | [US Medical Affairs, AI & Knowledge Experience Intern](https://www.wobo.ai/job/us-medical-affairs-ai-knowledge-experience-intern-at-astrazeneca-pb2dqv6tg/?utm_source=github&utm_medium=list&utm_campaign=internships) | Gaithersburg, MD | \$31 to \$33/hr | Nov&nbsp;2 |
 | **Wellmark, Inc** | [Software Engineer Internship – AI Platform Team](https://www.wobo.ai/job/software-engineer-internship-ai-platform-team-at-wellmark-inc-p84g6suml/?utm_source=github&utm_medium=list&utm_campaign=internships) | Des Moines, IA (hybrid) |  | Nov&nbsp;2 |
 | **Samsung Semiconductor** | [Intern, AI Application Engineer](https://www.wobo.ai/job/intern-ai-application-engineer-at-samsung-semiconductor-p8ulbxbhe/?utm_source=github&utm_medium=list&utm_campaign=internships) | Folsom, CA | \$28 to \$68/hr | Nov&nbsp;2 |
-| **Intuitive** | [AI/ML Engineer Intern](https://www.wobo.ai/job/aiml-engineer-intern-at-intuitive-p8iruewk2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Sunnyvale, CA (hybrid) |  | Nov&nbsp;2 |
 | **Toshiba Global Commerce Solutions** | [AI Data Science & Business Analytics Intern](https://www.wobo.ai/job/ai-data-science-business-analytics-intern-at-toshiba-global-commerce-solutions-p96ww6hgf/?utm_source=github&utm_medium=list&utm_campaign=internships) | Durham, NC |  | Nov&nbsp;2 |
 | **Trace3** | [Workplace AI Intern](https://www.wobo.ai/job/workplace-ai-intern-at-trace3-p962niysa/?utm_source=github&utm_medium=list&utm_campaign=internships) | Detroit, MI | \$18 to \$26/hr | Nov&nbsp;2 |
 | **NVIDIA** | [AI Compiler and Kernel Intern – Summer 2027](https://www.wobo.ai/job/ai-compiler-and-kernel-intern-summer-2027-at-nvidia-pc1my5kfb/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX | \$20 to \$94/hr | Nov&nbsp;1 |
@@ -434,7 +437,6 @@
 | **General Motors** | [2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles](https://www.wobo.ai/job/2027-summer-intern-aiml-engineer-autonomous-vehicles-at-general-motors-odtk0hu3x/?utm_source=github&utm_medium=list&utm_campaign=internships) | Sunnyvale, CA (hybrid) | \$10K to \$12K/mo | Oct&nbsp;28 |
 | **Verition Group LLC Internships** | [2027 Internship - AI Associate: Equity Long/Short](https://www.wobo.ai/job/2027-internship-ai-associate-equity-longshort-at-verition-group-llc-internships-ny0tfooa6/?utm_source=github&utm_medium=list&utm_campaign=internships) | New York City, NY | \$140K to \$160K/yr | Oct&nbsp;28 |
 | **Intuitive** | [AI Research Intern](https://www.wobo.ai/job/ai-research-intern-at-intuitive-o2ez3uz2l/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Sunnyvale, CA |  | Oct&nbsp;28 |
-| **Samsung Semiconductor** | [Intern, Thermal Modeling & Simulation Engineer (AI Memory / HBM)](https://www.wobo.ai/job/intern-thermal-modeling-simulation-engineer-ai-memory-hbm-at-samsung-semiconductor-ntu5f1ccb/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | San Jose, CA | \$28 to \$68/hr | Oct&nbsp;27 |
 | **Valmont** | [AI & Data Engineering Intern](https://www.wobo.ai/job/ai-data-engineering-intern-at-valmont-nwlivg8s6/?utm_source=github&utm_medium=list&utm_campaign=internships) | Omaha, NE |  | Oct&nbsp;27 |
 | **Samsung Research America Internship** | [2027 Health AI Scholar, Digital Health Algorithms Team](https://www.wobo.ai/job/2027-health-ai-scholar-digital-health-algorithms-team-at-samsung-research-america-ntwgmrs6h/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA | \$62 to \$75/hr | Oct&nbsp;27 |
 | **ATOMS** | [AI Research Intern (BS/MS)](https://www.wobo.ai/job/ai-research-intern-bsms-at-atoms-nu5kpyc1p/?utm_source=github&utm_medium=list&utm_campaign=internships) | Mountain View, CA | \$70/hr | Oct&nbsp;27 |
@@ -680,7 +682,6 @@
 | ↳ | [Intern, Cyber IT](https://www.wobo.ai/job/intern-cyber-it-at-little-caesars-psb844f3m/?utm_source=github&utm_medium=list&utm_campaign=internships) | Detroit, MI (hybrid) |  | Nov&nbsp;4 |
 | **LLNL** | [Critical Infrastructure Analysis Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://www.wobo.ai/job/critical-infrastructure-analysis-undergraduate-intern-cyber-and-critical-infrastructure-phei7jhcy/?utm_source=github&utm_medium=list&utm_campaign=internships) | Livermore, CA | \$23 to \$32/hr | Nov&nbsp;3 |
 | ↳ | [Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://www.wobo.ai/job/critical-infrastructure-analysis-graduate-intern-cyber-and-critical-infrastructure-summer-phei9n77b/?utm_source=github&utm_medium=list&utm_campaign=internships) | Livermore, CA | \$10K/mo | Nov&nbsp;3 |
-| ↳ | [Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://www.wobo.ai/job/cybersecurity-undergraduate-intern-cyber-and-critical-infrastructure-summer-institute-pheia5veo/?utm_source=github&utm_medium=list&utm_campaign=internships) | Livermore, CA | \$23 to \$32/hr | Nov&nbsp;3 |
 | ↳ | [Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://www.wobo.ai/job/cybersecurity-graduate-intern-cyber-and-critical-infrastructure-summer-institute-summer-pheibodmw/?utm_source=github&utm_medium=list&utm_campaign=internships) | Livermore, CA | \$10K/mo | Nov&nbsp;3 |
 | **Federal Home Loan Bank of Chicago** | [Summer Internship - Cybersecurity](https://www.wobo.ai/job/summer-internship-cybersecurity-at-federal-home-loan-bank-of-chicago-pal1m0mkn/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chicago, IL | \$39K to \$58K/yr | Nov&nbsp;1 |
 | **GCM Grosvenor** | [2027 Cybersecurity Summer Intern](https://www.wobo.ai/job/2027-cybersecurity-summer-intern-at-gcm-grosvenor-oki36rr5h/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chicago, IL (hybrid) | \$70K to \$75K/yr | Oct&nbsp;30 |
@@ -782,6 +783,8 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Renesas Electronics** | [Firmware Engineering Intern](https://www.wobo.ai/job/firmware-engineering-intern-at-renesas-electronics-sc82l4ks3/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX |  | Nov&nbsp;20 |
+| **Mission Critical Group** | [2027 Summer Internship - Electrical Engineering](https://www.wobo.ai/job/2027-summer-internship-electrical-engineering-at-mission-critical-group-sc178ohme/?utm_source=github&utm_medium=list&utm_campaign=internships) | Harleysville, PA +1 |  | Nov&nbsp;20 |
 | **Blue Energy** | [Mechanical Engineering Intern - Summer 27'](https://www.wobo.ai/job/mechanical-engineering-intern-summer-27-at-blue-energy-sbcb8zwpn/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chevy Chase, MD (hybrid) |  | Nov&nbsp;19 |
 | **Sierra Space** | [2027 Summer Internship - Propulsion Engineering](https://www.wobo.ai/job/2027-summer-internship-propulsion-engineering-at-sierra-space-s7yzc7tgr/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Centennial, CO | \$31/hr | Nov&nbsp;18 |
 | ↳ | [2027 Summer Internship - Mechanical Engineering](https://www.wobo.ai/job/2027-summer-internship-mechanical-engineering-at-sierra-space-s7yzbbofs/?utm_source=github&utm_medium=list&utm_campaign=internships) | Centennial, CO | \$31/hr | Nov&nbsp;18 |
@@ -800,7 +803,6 @@
 | **Samsung Semiconductor** | [Intern, SSD Firmware Engineer](https://www.wobo.ai/job/intern-ssd-firmware-engineer-at-samsung-semiconductor-s1i3nqtu6/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Jose, CA | \$28 to \$68/hr | Nov&nbsp;18 |
 | **Cummins** | [EATON - Mechanical Engineering Internship (ECJV)](https://www.wobo.ai/job/eaton-mechanical-engineering-internship-ecjv-at-cummins-rxtow7ubs/?utm_source=github&utm_medium=list&utm_campaign=internships) | Galesburg, MI |  | Nov&nbsp;18 |
 | **Mission Critical Group** | [2027 Summer Internship - Mechanical Engineering](https://www.wobo.ai/job/2027-summer-internship-mechanical-engineering-at-mission-critical-group-s1462dlux/?utm_source=github&utm_medium=list&utm_campaign=internships) | Harleysville, PA +1 |  | Nov&nbsp;18 |
-| ↳ | [2027 Summer Internship - Electrical Engineering](https://www.wobo.ai/job/2027-summer-internship-electrical-engineering-at-mission-critical-group-s1465pkf6/?utm_source=github&utm_medium=list&utm_campaign=internships) | Brookston, IN |  | Nov&nbsp;18 |
 | **Facllc** | [Electrical Engineer Intern](https://www.wobo.ai/job/electrical-engineer-intern-at-facllc-rwsdgcdg2/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA +15 |  | Nov&nbsp;18 |
 | **Nabors** | [Intern - Electrical Engineering (Nabors)](https://www.wobo.ai/job/intern-electrical-engineering-nabors-at-nabors-rwr9szhi1/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Nov&nbsp;18 |
 | ↳ | [Intern - Mechanical Engineering (Nabors)](https://www.wobo.ai/job/intern-mechanical-engineering-nabors-at-nabors-rwr9qj7fz/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Nov&nbsp;18 |
