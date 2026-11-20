@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,379 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:56 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,387 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:56 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (187) · [Data](#data-internships) (138) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (76) · [Hardware](#hardware-internships) (435) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (186) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (189) · [Data](#data-internships) (138) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (76) · [Hardware](#hardware-internships) (438) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (186) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,6 +13,10 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Ralliant** | [Software Engineering Intern (Summer 2027)](https://www.wobo.ai/job/software-engineering-intern-summer-2027-at-ralliant-sbsxbq7aa/?utm_source=github&utm_medium=list&utm_campaign=internships) | Beaverton, OR (hybrid) |  | Nov&nbsp;20 |
+| **Texas Instruments** | [Systems Engineering Intern (GaN)](https://www.wobo.ai/job/systems-engineering-intern-gan-at-texas-instruments-sbm4ns1xo/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Dallas, TX |  | Nov&nbsp;20 |
+| ↳ | [Systems Engineering Intern - MEMS](https://www.wobo.ai/job/systems-engineering-intern-mems-at-texas-instruments-sbm47ibo5/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Santa Clara, CA |  | Nov&nbsp;20 |
+| **Holland America Group** | [Intern, Crew Operations BI Report Developer](https://www.wobo.ai/job/intern-crew-operations-bi-report-developer-at-holland-america-group-sbifm9s7a/?utm_source=github&utm_medium=list&utm_campaign=internships) | Seattle, WA (hybrid) | \$25 to \$30/hr | Nov&nbsp;20 |
 | **Uplinq Inc** | [Software Engineer Intern - ASU](https://www.wobo.ai/job/software-engineer-intern-asu-at-uplinq-inc-sajsd34if/?utm_source=github&utm_medium=list&utm_campaign=internships) | Scottsdale, AZ |  | Nov&nbsp;20 |
 | **Lucid Motors** | [Intern, Infotainment Software, Summer 2027](https://www.wobo.ai/job/intern-infotainment-software-summer-2027-at-lucid-motors-scgxq5o23/?utm_source=github&utm_medium=list&utm_campaign=internships) | Newark, CA | \$53 to \$72/hr | Nov&nbsp;19 |
 | ↳ | [Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027](https://www.wobo.ai/job/intern-embedded-software-bspplatform-adasautonomous-driving-summer-2027-at-lucid-motors-scgxowvmv/?utm_source=github&utm_medium=list&utm_campaign=internships) | Newark, CA | \$53 to \$72/hr | Nov&nbsp;19 |
@@ -323,7 +327,6 @@
 | **HP IQ** | [Software Product Management Intern](https://www.wobo.ai/job/software-product-management-intern-at-hp-iq-itkpuz3ez/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX (hybrid) | \$23 to \$35/hr | Oct&nbsp;6 |
 | **General Motors** | [2027 Summer Intern, Systems Engineer, ASD](https://www.wobo.ai/job/2027-summer-intern-systems-engineer-asd-at-general-motors-iidgn5nzr/?utm_source=github&utm_medium=list&utm_campaign=internships) | Milford, MI | \$8K to \$9K/mo | Oct&nbsp;6 |
 | **Axos Bank** | [Software Development Intern](https://www.wobo.ai/job/software-development-intern-at-axos-bank-irqivfmwt/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Diego, CA | \$20 to \$25/hr | Oct&nbsp;6 |
-| **Sigma Computing** | [Software Engineering Intern (Summer 2027)](https://www.wobo.ai/job/software-engineering-intern-summer-2027-at-sigma-computing-ifry4ecw7/?utm_source=github&utm_medium=list&utm_campaign=internships) | New York City, NY +1 | \$50/hr | Oct&nbsp;6 |
 
 [Back to sections](#sections)
 
@@ -332,6 +335,8 @@
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
 | **Vertiv** | [AI Intern (Summer 2027)](https://www.wobo.ai/job/ai-intern-summer-2027-at-vertiv-sc6k99jq6/?utm_source=github&utm_medium=list&utm_campaign=internships) | Huntsville, AL |  | Nov&nbsp;20 |
+| **Ralliant** | [Software Engineering (AI Building) Intern (Summer 2027)](https://www.wobo.ai/job/software-engineering-ai-building-intern-summer-2027-at-ralliant-sbsxdygv0/?utm_source=github&utm_medium=list&utm_campaign=internships) | Beaverton, OR |  | Nov&nbsp;20 |
+| **Texas Instruments** | [Synthetic Data for Edge AI System Engineer Intern](https://www.wobo.ai/job/synthetic-data-for-edge-ai-system-engineer-intern-at-texas-instruments-sbm496qsr/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Dallas, TX |  | Nov&nbsp;20 |
 | **Lucid Motors** | [Intern, AI/ML, Vehicle Infotainment, Summer 2027](https://www.wobo.ai/job/intern-aiml-vehicle-infotainment-summer-2027-at-lucid-motors-scgxneopf/?utm_source=github&utm_medium=list&utm_campaign=internships) | Newark, CA | \$53 to \$72/hr | Nov&nbsp;20 |
 | **LinkedIn** | [AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA)](https://www.wobo.ai/job/aiml-engineer-intern-masters-summer-2027-mountain-view-ca-at-linkedin-sc6aku1s9/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA (hybrid) | \$57 to \$70/hr | Nov&nbsp;19 |
 | ↳ | [AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA)](https://www.wobo.ai/job/aiml-engineer-intern-generative-ai-phd-summer-2027-mountain-view-ca-at-linkedin-sc6alwcpo/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA (hybrid) | \$62 to \$75/hr | Nov&nbsp;19 |
@@ -806,6 +811,9 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Ralliant** | [Process Engineer Intern (Summer 2027)](https://www.wobo.ai/job/process-engineer-intern-summer-2027-at-ralliant-sbsxcggz7/?utm_source=github&utm_medium=list&utm_campaign=internships) | Beaverton, OR |  | Nov&nbsp;20 |
+| ↳ | [Electrical Design Engineer Intern (Summer 2027)](https://www.wobo.ai/job/electrical-design-engineer-intern-summer-2027-at-ralliant-sbsx6boh2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Beaverton, OR (hybrid) |  | Nov&nbsp;20 |
+| ↳ | [System Level Verification Engineer Intern (Summer 2027)](https://www.wobo.ai/job/system-level-verification-engineer-intern-summer-2027-at-ralliant-sbsx4axif/?utm_source=github&utm_medium=list&utm_campaign=internships) | United States |  | Nov&nbsp;20 |
 | **Renesas Electronics** | [Firmware Engineering Intern](https://www.wobo.ai/job/firmware-engineering-intern-at-renesas-electronics-sc82l4ks3/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX |  | Nov&nbsp;20 |
 | **Mission Critical Group** | [2027 Summer Internship - Electrical Engineering](https://www.wobo.ai/job/2027-summer-internship-electrical-engineering-at-mission-critical-group-sc178ohme/?utm_source=github&utm_medium=list&utm_campaign=internships) | Harleysville, PA +1 |  | Nov&nbsp;20 |
 | **Blue Energy** | [Mechanical Engineering Intern - Summer 27'](https://www.wobo.ai/job/mechanical-engineering-intern-summer-27-at-blue-energy-sbcb8zwpn/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chevy Chase, MD (hybrid) |  | Nov&nbsp;19 |
