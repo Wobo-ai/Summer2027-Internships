@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,346 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 5:52 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,346 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 6:51 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (300) · [AI and ML](#ai-and-ml-internships) (181) · [Data](#data-internships) (135) · [Security](#security-internships) (45) · [Product and design](#product-and-design-internships) (73) · [Hardware](#hardware-internships) (428) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (184) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (300) · [AI and ML](#ai-and-ml-internships) (180) · [Data](#data-internships) (135) · [Security](#security-internships) (45) · [Product and design](#product-and-design-internships) (74) · [Hardware](#hardware-internships) (428) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (184) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -345,7 +345,6 @@
 | **Accenture** | [AI/ML Computational Scientist - Specialist - Advanced Degree Intern - NAELFY27](https://www.wobo.ai/job/aiml-computational-scientist-specialist-advanced-degree-intern-naelfy27-at-accenture-ry3aerwv7/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA (hybrid) |  | Nov&nbsp;16 |
 | ↳ | [AI/ML Computational Scientist - Associate Manager - Advanced Degree Intern - NAELFY27](https://www.wobo.ai/job/aiml-computational-scientist-associate-manager-advanced-degree-intern-naelfy27-at-ry3abjxe9/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA (hybrid) | \$74K to \$220K/yr | Nov&nbsp;16 |
 | **Roche** | [2027 Summer Intern - GCS ML Sequencing](https://www.wobo.ai/job/2027-summer-intern-gcs-ml-sequencing-at-roche-rrebl97bl/?utm_source=github&utm_medium=list&utm_campaign=internships) | Santa Clara, CA | \$23 to \$45/hr | Nov&nbsp;15 |
-| **KLA** | [Computer Vision/Machine Learning Intern](https://www.wobo.ai/job/computer-visionmachine-learning-intern-at-kla-rrbi3gafw/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Milpitas, CA |  | Nov&nbsp;15 |
 | **GlobalFoundries** | [AI-Enabled Computational Materials & Device Engineering PhD Intern, (Summer 2027)](https://www.wobo.ai/job/ai-enabled-computational-materials-device-engineering-phd-intern-summer-2027-at-rri9u1ybo/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Malta, NY | \$20 to \$40/hr | Nov&nbsp;15 |
 | **Constellation Brands** | [Intern, Data and AI Enablement](https://www.wobo.ai/job/intern-data-and-ai-enablement-at-constellation-brands-rpvtgofi9/?utm_source=github&utm_medium=list&utm_campaign=internships) | Rochester, NY | \$19 to \$32/hr | Nov&nbsp;15 |
 | **ASML** | [Internship - Integrate GUI and LLM](https://www.wobo.ai/job/internship-integrate-gui-and-llm-at-asml-s2s151dof/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Jose, CA |  | Nov&nbsp;15 |
@@ -704,6 +703,7 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **Positronic** | [Product Management Intern](https://www.wobo.ai/job/product-management-intern-at-positronic-s11s0pupc/?utm_source=github&utm_medium=list&utm_campaign=internships) | Springfield, MO |  | Nov&nbsp;19 |
 | **Megger** | [Product Manager Intern](https://www.wobo.ai/job/product-manager-intern-at-megger-s4jff5dnl/?utm_source=github&utm_medium=list&utm_campaign=internships) | Dallas, TX |  | Nov&nbsp;18 |
+| **LabCorp** | [Intern - Product Owner](https://www.wobo.ai/job/intern-product-owner-at-labcorp-s9wiiitny/?utm_source=github&utm_medium=list&utm_campaign=internships) | Durham, NC |  | Nov&nbsp;18 |
 | **Highmark Health** | [Summer 2027 Product Management and Development Intern](https://www.wobo.ai/job/summer-2027-product-management-and-development-intern-at-highmark-health-s8ftnkhir/?utm_source=github&utm_medium=list&utm_campaign=internships) | PA (hybrid) |  | Nov&nbsp;18 |
 | **Fiskars Group** | [Product Management Intern (Summer 2027)](https://www.wobo.ai/job/product-management-intern-summer-2027-at-fiskars-group-s8thvk6id/?utm_source=github&utm_medium=list&utm_campaign=internships) | Middleton, WI (hybrid) |  | Nov&nbsp;18 |
 | **Pyrotek** | [Intern - Product Management](https://www.wobo.ai/job/intern-product-management-at-pyrotek-s1apc12hk/?utm_source=github&utm_medium=list&utm_campaign=internships) | Spokane, WA | \$22/hr | Nov&nbsp;18 |
@@ -789,6 +789,7 @@
 | **RTX** | [Mechanical Engineer Intern Summer 2027 (Onsite)](https://www.wobo.ai/job/mechanical-engineer-intern-summer-2027-onsite-at-rtx-s7ucl0b9y/?utm_source=github&utm_medium=list&utm_campaign=internships) | El Segundo, CA | \$42K to \$88K/yr | Nov&nbsp;18 |
 | **Regal Rexnord** | [Electronics Co-Op (Summer 2027)](https://www.wobo.ai/job/electronics-co-op-summer-2027-at-regal-rexnord-s87l4v3a2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Fort Wayne, IN |  | Nov&nbsp;18 |
 | **Northrop Grumman** | [2027 Electrical Engineering Intern- Huntsville AL](https://www.wobo.ai/job/2027-electrical-engineering-intern-huntsville-al-at-northrop-grumman-s9vrfj04q/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Huntsville, AL | \$26 to \$32/hr | Nov&nbsp;18 |
+| **Nidec** | [Mechanical Engineering Intern](https://www.wobo.ai/job/mechanical-engineering-intern-at-nidec-s9y0u7bre/?utm_source=github&utm_medium=list&utm_campaign=internships) | Lexington, KY |  | Nov&nbsp;18 |
 | **Motorola Solutions** | [Electrical Engineering Intern-Summer 2027](https://www.wobo.ai/job/electrical-engineering-intern-summer-2027-at-motorola-solutions-s7t6mpfsb/?utm_source=github&utm_medium=list&utm_campaign=internships) | Plantation, FL |  | Nov&nbsp;18 |
 | **ASML** | [Internship - Mechanical Analysis Engineer](https://www.wobo.ai/job/internship-mechanical-analysis-engineer-at-asml-s2rx3m2to/?utm_source=github&utm_medium=list&utm_campaign=internships) | Wilton, CT | \$18 to \$48/hr | Nov&nbsp;18 |
 | ↳ | [Internship - Electrical Engineer](https://www.wobo.ai/job/internship-electrical-engineer-at-asml-s2rwy11c8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Wilton, CT | \$18 to \$48/hr | Nov&nbsp;18 |
@@ -859,7 +860,6 @@
 | ↳ | [Electrical Systems Integration Intern (Summer 2027)](https://www.wobo.ai/job/electrical-systems-integration-intern-summer-2027-at-reliable-robotics-corporation-s5zphxn8i/?utm_source=github&utm_medium=list&utm_campaign=internships) | Mountain View, CA |  | Nov&nbsp;13 |
 | **SharkNinja** | [Summer 2027: Mechanical Engineering Intern, Ninja (May to August)](https://www.wobo.ai/job/summer-2027-mechanical-engineering-intern-ninja-may-to-august-at-sharkninja-ritqwdjev/?utm_source=github&utm_medium=list&utm_campaign=internships) | Needham, MA | \$27 to \$36/hr | Nov&nbsp;13 |
 | **Entegris** | [Mechanical Engineering Intern](https://www.wobo.ai/job/mechanical-engineering-intern-at-entegris-rh5kh65w7/?utm_source=github&utm_medium=list&utm_campaign=internships) | Bloomington, MN +1 | \$20 to \$30/hr | Nov&nbsp;12 |
-| **Daimler Truck Financial Services** | [Manufacturing Engineering Intern - Thomas Built Bus](https://www.wobo.ai/job/manufacturing-engineering-intern-thomas-built-bus-at-daimler-truck-financial-services-rh17so5dl/?utm_source=github&utm_medium=list&utm_campaign=internships) | High Point, NC | \$21 to \$29/hr | Nov&nbsp;12 |
 | **Bloom Energy** | [Electrical Engineering Intern (Masters)](https://www.wobo.ai/job/electrical-engineering-intern-masters-at-bloom-energy-rkamfy8y0/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | San Jose, CA | \$45 to \$50/hr | Nov&nbsp;12 |
 | ↳ | [Electrical Engineering Intern](https://www.wobo.ai/job/electrical-engineering-intern-at-bloom-energy-rkam889c5/?utm_source=github&utm_medium=list&utm_campaign=internships) | Fremont, CA | \$36 to \$50/hr | Nov&nbsp;12 |
 | **Shield** | [Summer 2027 - Electrical Engineering Intern](https://www.wobo.ai/job/summer-2027-electrical-engineering-intern-at-shield-rnhi80y7u/?utm_source=github&utm_medium=list&utm_campaign=internships) | Dallas, TX |  | Nov&nbsp;12 |
