@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,349 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 7:52 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,350 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 7:52 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (302) · [AI and ML](#ai-and-ml-internships) (180) · [Data](#data-internships) (136) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (74) · [Hardware](#hardware-internships) (427) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (184) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (303) · [AI and ML](#ai-and-ml-internships) (180) · [Data](#data-internships) (136) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (74) · [Hardware](#hardware-internships) (427) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (184) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -23,6 +23,7 @@
 | **RTX** | [Software Security Intern (Summer 2027)](https://www.wobo.ai/job/software-security-intern-summer-2027-at-rtx-s7uepp2g0/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Cedar Rapids, IA | \$37K to \$82K/yr | Nov&nbsp;18 |
 | ↳ | [Software Engineering Intern (Summer 2027)](https://www.wobo.ai/job/software-engineering-intern-summer-2027-at-rtx-s7uej00kd/?utm_source=github&utm_medium=list&utm_campaign=internships) | Indianapolis, IN +4 | \$37K to \$82K/yr | Nov&nbsp;18 |
 | ↳ | [Life Cycle Systems Engineer Intern (Onsite)](https://www.wobo.ai/job/life-cycle-systems-engineer-intern-onsite-at-rtx-s7ue99qoz/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Woburn, MA | \$42K to \$88K/yr | Nov&nbsp;18 |
+| **Roche** | [2027 Summer Intern - Software Applications and Pipelines (R&D Internal Solutions, Computational Science and Informatics)](https://www.wobo.ai/job/2027-summer-intern-software-applications-and-pipelines-rd-internal-solutions-sacg2gipw/?utm_source=github&utm_medium=list&utm_campaign=internships) | Santa Clara, CA | \$45 to \$52/hr | Nov&nbsp;18 |
 | **PTC** | [Full-Stack Engineering Intern, Cloud Data Management (CAD)](https://www.wobo.ai/job/full-stack-engineering-intern-cloud-data-management-cad-at-ptc-s89qztmrx/?utm_source=github&utm_medium=list&utm_campaign=internships) | Boston, MA | \$32 to \$36/hr | Nov&nbsp;18 |
 | **Leidos** | [Systems Engineer Intern](https://www.wobo.ai/job/systems-engineer-intern-at-leidos-s9w6qa4w7/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Fort Belvoir, VA | \$42K to \$75K/yr | Nov&nbsp;18 |
 | ↳ | [Software Developer Intern](https://www.wobo.ai/job/software-developer-intern-at-leidos-s9w6puyt6/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Fort Belvoir, VA | \$42K to \$75K/yr | Nov&nbsp;18 |
