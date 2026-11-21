@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,377 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:56 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,376 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:56 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (313) · [AI and ML](#ai-and-ml-internships) (189) · [Data](#data-internships) (136) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (76) · [Hardware](#hardware-internships) (436) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (181) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (313) · [AI and ML](#ai-and-ml-internships) (188) · [Data](#data-internships) (136) · [Security](#security-internships) (46) · [Product and design](#product-and-design-internships) (76) · [Hardware](#hardware-internships) (436) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (181) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -521,7 +521,6 @@
 | **Waymo** | [2027 Summer Intern, PhD, Machine Learning, Planning / Prediction](https://www.wobo.ai/job/2027-summer-intern-phd-machine-learning-planningprediction-at-waymo-j0jhxzydh/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA | \$85/hr | Oct&nbsp;8 |
 | **IMC** | [Machine Learning Engineer Intern - Summer 2027](https://www.wobo.ai/job/machine-learning-engineer-intern-summer-2027-at-imc-j0e3rz0o2/?utm_source=github&utm_medium=list&utm_campaign=internships) | New York City, NY | \$200K/yr | Oct&nbsp;8 |
 | **Tenstorrent** | [AI Software Intern](https://www.wobo.ai/job/ai-software-intern-at-tenstorrent-iqatekd5u/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX | \$50 to \$70/hr | Oct&nbsp;7 |
-| **Sigma Computing** | [AI/ML PhD Intern (Summer 2027)](https://www.wobo.ai/job/aiml-phd-intern-summer-2027-at-sigma-computing-ifry2eqaf/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | New York City, NY | \$80 to \$90/hr | Oct&nbsp;6 |
 
 [Back to sections](#sections)
 
