@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,386 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 2:49 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,391 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 3:41 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (188) · [Data](#data-internships) (138) · [Security](#security-internships) (48) · [Product and design](#product-and-design-internships) (79) · [Hardware](#hardware-internships) (436) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (186) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (188) · [Data](#data-internships) (138) · [Security](#security-internships) (49) · [Product and design](#product-and-design-internships) (79) · [Hardware](#hardware-internships) (438) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (188) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -671,6 +671,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Caesars Entertainment** | [SOC Cybersecurity Intern (Las Vegas)](https://www.wobo.ai/job/soc-cybersecurity-intern-las-vegas-at-caesars-entertainment-sd0kvtp5a/?utm_source=github&utm_medium=list&utm_campaign=internships) | Las Vegas, NV |  | Nov&nbsp;21 |
 | **LLNL** | [Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://www.wobo.ai/job/cybersecurity-undergraduate-intern-cyber-and-critical-infrastructure-summer-institute-scc3s5i64/?utm_source=github&utm_medium=list&utm_campaign=internships) | Livermore, CA | \$23 to \$32/hr | Nov&nbsp;19 |
 | **Northrop Grumman** | [2027 Cybersecurity Engineer Intern](https://www.wobo.ai/job/2027-cybersecurity-engineer-intern-at-northrop-grumman-s9vs4tmg4/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Roy, UT |  | Nov&nbsp;18 |
 | **Highmark Health** | [Summer 2027 Network Cybersecurity Engineer Undergraduate Intern](https://www.wobo.ai/job/summer-2027-network-cybersecurity-engineer-undergraduate-intern-at-highmark-health-s8ftoop0o/?utm_source=github&utm_medium=list&utm_campaign=internships) | PA (remote) |  | Nov&nbsp;18 |
@@ -816,6 +817,8 @@
 | ↳ | [Electrical Design Engineer Intern (Summer 2027)](https://www.wobo.ai/job/electrical-design-engineer-intern-summer-2027-at-ralliant-sbsx6boh2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Beaverton, OR (hybrid) |  | Nov&nbsp;20 |
 | ↳ | [System Level Verification Engineer Intern (Summer 2027)](https://www.wobo.ai/job/system-level-verification-engineer-intern-summer-2027-at-ralliant-sbsx4axif/?utm_source=github&utm_medium=list&utm_campaign=internships) | United States |  | Nov&nbsp;20 |
 | **Renesas Electronics** | [Firmware Engineering Intern](https://www.wobo.ai/job/firmware-engineering-intern-at-renesas-electronics-sc82l4ks3/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX |  | Nov&nbsp;20 |
+| **Morrison-Maierle** | [Mechanical Engineer Internship](https://www.wobo.ai/job/mechanical-engineer-internship-at-morrison-maierle-sd0mg3f2p/?utm_source=github&utm_medium=list&utm_campaign=internships) | Bozeman, MT | \$25 to \$28/hr | Nov&nbsp;20 |
+| ↳ | [Electrical Engineer Internship](https://www.wobo.ai/job/electrical-engineer-internship-at-morrison-maierle-sd0mc54ms/?utm_source=github&utm_medium=list&utm_campaign=internships) | Bozeman, MT | \$25 to \$28/hr | Nov&nbsp;20 |
 | **Mission Critical Group** | [2027 Summer Internship - Electrical Engineering](https://www.wobo.ai/job/2027-summer-internship-electrical-engineering-at-mission-critical-group-sc178ohme/?utm_source=github&utm_medium=list&utm_campaign=internships) | Harleysville, PA +1 |  | Nov&nbsp;20 |
 | **Blue Energy** | [Mechanical Engineering Intern - Summer 27'](https://www.wobo.ai/job/mechanical-engineering-intern-summer-27-at-blue-energy-sbcb8zwpn/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chevy Chase, MD (hybrid) |  | Nov&nbsp;19 |
 | **Scout Space** | [Mechanical Engineering Intern (Summer 2027)](https://www.wobo.ai/job/mechanical-engineering-intern-summer-2027-at-scout-space-sccxvdbv4/?utm_source=github&utm_medium=list&utm_campaign=internships) | Reston, VA (hybrid) | \$30/hr | Nov&nbsp;19 |
@@ -1255,6 +1258,8 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Commonwealth Fusion Systems** | [Intern - Electrical Engineer, RF Heating Systems - Spring 2027](https://www.wobo.ai/job/intern-electrical-engineer-rf-heating-systems-spring-2027-at-commonwealth-fusion-systems-sd3vtjnxz/?utm_source=github&utm_medium=list&utm_campaign=internships) | Devens, MA |  | Nov&nbsp;20 |
+| ↳ | [Intern - Electrical Engineer - Spring 2027](https://www.wobo.ai/job/intern-electrical-engineer-spring-2027-at-commonwealth-fusion-systems-sd3vsgci2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Devens, MA |  | Nov&nbsp;20 |
 | **Watlow** | [Manufacturing Engineering Co-Op](https://www.wobo.ai/job/manufacturing-engineering-co-op-at-watlow-sbyg92db0/?utm_source=github&utm_medium=list&utm_campaign=internships) | Hannibal, MO |  | Nov&nbsp;20 |
 | ↳ | [Manufacturing Engineering Co-Op- COL](https://www.wobo.ai/job/manufacturing-engineering-co-op-col-at-watlow-sbyg8jvz5/?utm_source=github&utm_medium=list&utm_campaign=internships) | Columbia, MO |  | Nov&nbsp;20 |
 | **North Point Technology** | [Manufacturing Engineer Co-Op](https://www.wobo.ai/job/manufacturing-engineer-co-op-at-north-point-technology-scrno71r9/?utm_source=github&utm_medium=list&utm_campaign=internships) | Fort Wayne, IN |  | Nov&nbsp;19 |
