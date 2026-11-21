@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,391 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 3:41 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,392 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 3:41 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (188) · [Data](#data-internships) (138) · [Security](#security-internships) (49) · [Product and design](#product-and-design-internships) (79) · [Hardware](#hardware-internships) (438) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (188) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (188) · [Data](#data-internships) (138) · [Security](#security-internships) (49) · [Product and design](#product-and-design-internships) (80) · [Hardware](#hardware-internships) (438) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (188) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -727,6 +727,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Samsung** | [Product Management Tools and Automation Intern](https://www.wobo.ai/job/product-management-tools-and-automation-intern-at-samsung-scwuysiv2/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Plano, TX |  | Nov&nbsp;19 |
 | **Positronic** | [Product Management Intern](https://www.wobo.ai/job/product-management-intern-at-positronic-s11s0pupc/?utm_source=github&utm_medium=list&utm_campaign=internships) | Springfield, MO |  | Nov&nbsp;19 |
 | **NVIDIA** | [Product Management MBA Intern, GenAI Data Strategy - Summer 2027](https://www.wobo.ai/job/product-management-mba-intern-genai-data-strategy-summer-2027-at-nvidia-scj4okl6b/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Santa Clara, CA | \$38 to \$94/hr | Nov&nbsp;18 |
 | **Megger** | [Product Manager Intern](https://www.wobo.ai/job/product-manager-intern-at-megger-s4jff5dnl/?utm_source=github&utm_medium=list&utm_campaign=internships) | Dallas, TX |  | Nov&nbsp;18 |
@@ -813,6 +814,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **WSP** | [Mechanical Engineering Intern - Summer 2027](https://www.wobo.ai/job/mechanical-engineering-intern-summer-2027-at-wsp-se40wzxxp/?utm_source=github&utm_medium=list&utm_campaign=internships) | Greenville, SC +2 |  | Nov&nbsp;21 |
 | **Ralliant** | [Process Engineer Intern (Summer 2027)](https://www.wobo.ai/job/process-engineer-intern-summer-2027-at-ralliant-sbsxcggz7/?utm_source=github&utm_medium=list&utm_campaign=internships) | Beaverton, OR |  | Nov&nbsp;20 |
 | ↳ | [Electrical Design Engineer Intern (Summer 2027)](https://www.wobo.ai/job/electrical-design-engineer-intern-summer-2027-at-ralliant-sbsx6boh2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Beaverton, OR (hybrid) |  | Nov&nbsp;20 |
 | ↳ | [System Level Verification Engineer Intern (Summer 2027)](https://www.wobo.ai/job/system-level-verification-engineer-intern-summer-2027-at-ralliant-sbsx4axif/?utm_source=github&utm_medium=list&utm_campaign=internships) | United States |  | Nov&nbsp;20 |
@@ -1103,7 +1105,6 @@
 | **Nordson** | [Manufacturing Engineering Intern](https://www.wobo.ai/job/manufacturing-engineering-intern-at-nordson-s3gcl4f5d/?utm_source=github&utm_medium=list&utm_campaign=internships) | Salem, NH |  | Oct&nbsp;28 |
 | **ASML** | [Internship - Mechatronics Engineer](https://www.wobo.ai/job/internship-mechatronics-engineer-at-asml-s2s936fk4/?utm_source=github&utm_medium=list&utm_campaign=internships) | Wilton, CT | \$18 to \$48/hr | Oct&nbsp;28 |
 | **Intuitive** | [Robotics Engineering Intern](https://www.wobo.ai/job/robotics-engineering-intern-at-intuitive-o2ez1kq7t/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Sunnyvale, CA |  | Oct&nbsp;28 |
-| **WSP** | [Mechanical Engineering Intern - Summer 2027](https://www.wobo.ai/job/mechanical-engineering-intern-summer-2027-at-wsp-nujv87gt4/?utm_source=github&utm_medium=list&utm_campaign=internships) | Tempe, AZ +1 | \$23 to \$30/hr | Oct&nbsp;28 |
 | **Mayo Clinic** | [Graduate Engineering Intern - Electronics](https://www.wobo.ai/job/graduate-engineering-intern-electronics-at-mayo-clinic-nqd3wtkc0/?utm_source=github&utm_medium=list&utm_campaign=internships) | Rochester, MN |  | Oct&nbsp;28 |
 | ↳ | [Undergraduate Engineering Intern - Mechanical Design](https://www.wobo.ai/job/undergraduate-engineering-intern-mechanical-design-at-mayo-clinic-nqd3pevdl/?utm_source=github&utm_medium=list&utm_campaign=internships) | Rochester, MN |  | Oct&nbsp;28 |
 | **Dover** | [Robotic Manufacturing Intern](https://www.wobo.ai/job/robotic-manufacturing-intern-at-dover-s2gkdphl4/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chester, VA |  | Oct&nbsp;27 |
