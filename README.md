@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,450 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,447 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (313) · [AI and ML](#ai-and-ml-internships) (204) · [Data](#data-internships) (148) · [Security](#security-internships) (59) · [Product and design](#product-and-design-internships) (84) · [Hardware](#hardware-internships) (443) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (312) · [AI and ML](#ai-and-ml-internships) (204) · [Data](#data-internships) (148) · [Security](#security-internships) (59) · [Product and design](#product-and-design-internships) (84) · [Hardware](#hardware-internships) (441) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -325,7 +325,6 @@
 | **Aptiv** | [Linux Software Development Intern](https://www.wobo.ai/job/linux-software-development-intern-at-aptiv-j1r2kf7ql/?utm_source=github&utm_medium=list&utm_campaign=internships) | USA Home - WR |  | Oct&nbsp;8 |
 | ↳ | [Embedded Software - Engineering Intern](https://www.wobo.ai/job/embedded-software-engineering-intern-at-aptiv-j1r2fepb3/?utm_source=github&utm_medium=list&utm_campaign=internships) | Walnut Creek, CA (hybrid) |  | Oct&nbsp;8 |
 | **Pinterest** | [Solutions Engineer Intern 2027 (USA)](https://www.wobo.ai/job/solutions-engineer-intern-2027-usa-at-pinterest-j0ikwdxys/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA (remote) | \$8K to \$10K/mo | Oct&nbsp;8 |
-| **Rugged Robotics** | [Robotic Software Intern/Co-op (Spring or Summer 2027)](https://www.wobo.ai/job/robotic-software-internco-op-spring-or-summer-2027-at-rugged-robotics-j0j7thky0/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Oct&nbsp;8 |
 
 [Back to sections](#sections)
 
@@ -1297,8 +1296,6 @@
 | ↳ | [Mechanical Engineer Intern - New Product Development](https://www.wobo.ai/job/mechanical-engineer-intern-new-product-development-at-wabtec-izkfgtol7/?utm_source=github&utm_medium=list&utm_campaign=internships) | Oak Creek, WI | \$17 to \$25/hr | Oct&nbsp;8 |
 | ↳ | [Mechanical Engineer Intern - Production Operations](https://www.wobo.ai/job/mechanical-engineer-intern-production-operations-at-wabtec-izkfhnkeg/?utm_source=github&utm_medium=list&utm_campaign=internships) | Oak Creek, WI | \$17 to \$25/hr | Oct&nbsp;8 |
 | **Syska Hennessy Group** | [Mechanical Engineering Summer Intern](https://www.wobo.ai/job/mechanical-engineering-summer-intern-at-syska-hennessy-group-j0rgx96vu/?utm_source=github&utm_medium=list&utm_campaign=internships) | Hamilton, NJ | \$22 to \$27/hr | Oct&nbsp;8 |
-| **Rugged Robotics** | [Mechanical Engineering Intern/Co-op (Spring or Summer 2027)](https://www.wobo.ai/job/mechanical-engineering-internco-op-spring-or-summer-2027-at-rugged-robotics-j0j7sk1x8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Oct&nbsp;8 |
-| ↳ | [Electrical Engineering Intern/Co-op (Spring or Summer '27)](https://www.wobo.ai/job/electrical-engineering-internco-op-spring-or-summer-27-at-rugged-robotics-j0j7rt7j8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Oct&nbsp;8 |
 
 [Back to sections](#sections)
 
