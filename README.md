@@ -381,6 +381,7 @@
 | **CrowdStrike** | [AI Research Launch Intern](https://www.wobo.ai/job/ai-research-launch-intern-at-crowdstrike-rynow82sh/?utm_source=github&utm_medium=list&utm_campaign=internships) | Sunnyvale, CA (hybrid) | \$22 to \$30/hr | Nov&nbsp;16 |
 | **Accenture** | [AI/ML Computational Scientist - Specialist - Advanced Degree Intern - NAELFY27](https://www.wobo.ai/job/aiml-computational-scientist-specialist-advanced-degree-intern-naelfy27-at-accenture-ry3aerwv7/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA (hybrid) |  | Nov&nbsp;16 |
 | ↳ | [AI/ML Computational Scientist - Associate Manager - Advanced Degree Intern - NAELFY27](https://www.wobo.ai/job/aiml-computational-scientist-associate-manager-advanced-degree-intern-naelfy27-at-ry3abjxe9/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA (hybrid) | \$74K to \$220K/yr | Nov&nbsp;16 |
+| **T-Mobile** | [Summer 2027 AI Engineering Internship](https://www.wobo.ai/job/summer-2027-ai-engineering-internship-at-t-mobile-s2msdhqr7/?utm_source=github&utm_medium=list&utm_campaign=internships) | Bellevue, WA | \$27 to \$50/hr | Nov&nbsp;15 |
 | **Roche** | [2027 Summer Intern - GCS ML Sequencing](https://www.wobo.ai/job/2027-summer-intern-gcs-ml-sequencing-at-roche-rrebl97bl/?utm_source=github&utm_medium=list&utm_campaign=internships) | Santa Clara, CA | \$23 to \$45/hr | Nov&nbsp;15 |
 | **GlobalFoundries** | [AI-Enabled Computational Materials & Device Engineering PhD Intern, (Summer 2027)](https://www.wobo.ai/job/ai-enabled-computational-materials-device-engineering-phd-intern-summer-2027-at-rri9u1ybo/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Malta, NY | \$20 to \$40/hr | Nov&nbsp;15 |
 | **Constellation Brands** | [Intern, Data and AI Enablement](https://www.wobo.ai/job/intern-data-and-ai-enablement-at-constellation-brands-rpvtgofi9/?utm_source=github&utm_medium=list&utm_campaign=internships) | Rochester, NY | \$19 to \$32/hr | Nov&nbsp;15 |
@@ -540,7 +541,6 @@
 | **Intel** | [AI-Driven Physical Design Engineering (PhD Intern)](https://www.wobo.ai/job/ai-driven-physical-design-engineering-phd-intern-at-intel-jlonu5cq8/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Santa Clara, CA | \$142K/yr | Oct&nbsp;8 |
 | **General Motors** | [2027 Summer Intern, Data Scaling, Embodied AI](https://www.wobo.ai/job/2027-summer-intern-data-scaling-embodied-ai-at-general-motors-j31a9q72i/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Sunnyvale, CA (hybrid) | \$12K to \$15K/mo | Oct&nbsp;8 |
 | ↳ | [2027 Summer Intern, AI Research, Embodied AI](https://www.wobo.ai/job/2027-summer-intern-ai-research-embodied-ai-at-general-motors-j31a3gxyb/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Sunnyvale, CA (hybrid) | \$12K to \$15K/mo | Oct&nbsp;8 |
-| **Mach9** | [Perception Intern](https://www.wobo.ai/job/perception-intern-at-mach9-j4tarc6ix/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA |  | Oct&nbsp;8 |
 
 [Back to sections](#sections)
 
