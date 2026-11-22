@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,462 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:45 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,464 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:45 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (317) · [AI and ML](#ai-and-ml-internships) (206) · [Data](#data-internships) (152) · [Security](#security-internships) (62) · [Product and design](#product-and-design-internships) (85) · [Hardware](#hardware-internships) (440) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (200) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (319) · [AI and ML](#ai-and-ml-internships) (206) · [Data](#data-internships) (152) · [Security](#security-internships) (62) · [Product and design](#product-and-design-internships) (85) · [Hardware](#hardware-internships) (440) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (200) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -87,6 +87,8 @@
 | **T-Mobile** | [Summer 2027 Software Engineer Internship](https://www.wobo.ai/job/summer-2027-software-engineer-internship-at-t-mobile-s2mqr7bha/?utm_source=github&utm_medium=list&utm_campaign=internships) | Overland Park, KS | \$27 to \$50/hr | Nov&nbsp;15 |
 | **SEL** | [Software Engineer Intern](https://www.wobo.ai/job/software-engineer-intern-at-sel-rr10dfm8i/?utm_source=github&utm_medium=list&utm_campaign=internships) | Pullman, WA +2 | \$24 to \$33/hr | Nov&nbsp;15 |
 | **Nordson** | [Intern (Software Engineering)](https://www.wobo.ai/job/intern-software-engineering-at-nordson-s3gavgeqg/?utm_source=github&utm_medium=list&utm_campaign=internships) | East Providence, RI |  | Nov&nbsp;15 |
+| **Michaels** | [Intern - Software Engineering](https://www.wobo.ai/job/intern-software-engineering-at-michaels-s2e204kud/?utm_source=github&utm_medium=list&utm_campaign=internships) | TX |  | Nov&nbsp;15 |
+| ↳ | [Intern - Digital Software Engineering](https://www.wobo.ai/job/intern-digital-software-engineering-at-michaels-s2e0wr42v/?utm_source=github&utm_medium=list&utm_campaign=internships) | TX |  | Nov&nbsp;15 |
 | **Entegris** | [Materials Solutions Engineering Intern - Summer 2027](https://www.wobo.ai/job/materials-solutions-engineering-intern-summer-2027-at-entegris-rrb6cjaju/?utm_source=github&utm_medium=list&utm_campaign=internships) | Aurora, IL | \$20 to \$30/hr | Nov&nbsp;15 |
 | **Direct Supply** | [Software Engineer Intern](https://www.wobo.ai/job/software-engineer-intern-at-direct-supply-s4ahzbkr0/?utm_source=github&utm_medium=list&utm_campaign=internships) | Milwaukee, WI (hybrid) |  | Nov&nbsp;15 |
 | **Analog Devices** | [Software Engineering Intern (Medical Device & Healthcare Integration)](https://www.wobo.ai/job/software-engineering-intern-medical-device-healthcare-integration-at-analog-devices-rqkhc1gpy/?utm_source=github&utm_medium=list&utm_campaign=internships) | Wilmington, MA | \$22 to \$41/hr | Nov&nbsp;15 |
