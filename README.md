@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,467 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,466 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (319) · [AI and ML](#ai-and-ml-internships) (207) · [Data](#data-internships) (151) · [Security](#security-internships) (60) · [Product and design](#product-and-design-internships) (85) · [Hardware](#hardware-internships) (446) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (319) · [AI and ML](#ai-and-ml-internships) (206) · [Data](#data-internships) (151) · [Security](#security-internships) (60) · [Product and design](#product-and-design-internships) (85) · [Hardware](#hardware-internships) (446) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -545,7 +545,6 @@
 | ↳ | [2027 Summer Intern, AI Research, Embodied AI](https://www.wobo.ai/job/2027-summer-intern-ai-research-embodied-ai-at-general-motors-j31a3gxyb/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Sunnyvale, CA (hybrid) | \$12K to \$15K/mo | Oct&nbsp;8 |
 | **Mach9** | [Perception Intern](https://www.wobo.ai/job/perception-intern-at-mach9-j4tarc6ix/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA |  | Oct&nbsp;8 |
 | **Waymo** | [2027 Summer Intern, PhD, Machine Learning, Planning / Prediction](https://www.wobo.ai/job/2027-summer-intern-phd-machine-learning-planningprediction-at-waymo-j0jhxzydh/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Mountain View, CA | \$85/hr | Oct&nbsp;8 |
-| **IMC** | [Machine Learning Engineer Intern - Summer 2027](https://www.wobo.ai/job/machine-learning-engineer-intern-summer-2027-at-imc-j0e3rz0o2/?utm_source=github&utm_medium=list&utm_campaign=internships) | New York City, NY | \$200K/yr | Oct&nbsp;8 |
 
 [Back to sections](#sections)
 
@@ -640,6 +639,7 @@
 | **Match Group** | [Data Scientist Intern](https://www.wobo.ai/job/data-scientist-intern-at-match-group-q7tuuqhwq/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA (hybrid) |  | Nov&nbsp;5 |
 | **Raft** | [Data Engineering Intern - Summer 2027](https://www.wobo.ai/job/data-engineering-intern-summer-2027-at-raft-pzi521agt/?utm_source=github&utm_medium=list&utm_campaign=internships) | McLean, VA | \$20 to \$24/hr | Nov&nbsp;5 |
 | **Samsung** | [Business Intelligence & Data Analytics Intern](https://www.wobo.ai/job/business-intelligence-data-analytics-intern-at-samsung-qad0xfotw/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Plano, TX |  | Nov&nbsp;5 |
+| **Johns Manville** | [Business Analytics & Strategy Intern](https://www.wobo.ai/job/business-analytics-strategy-intern-at-johns-manville-s3jonaoq0/?utm_source=github&utm_medium=list&utm_campaign=internships) | Denver, CO (hybrid) | \$42K to \$53K/yr | Nov&nbsp;5 |
 | **Red Wing Shoe Company** | [Data and Analytics Internship - Summer 2027](https://www.wobo.ai/job/data-and-analytics-internship-summer-2027-at-red-wing-shoe-company-pyq3agxf1/?utm_source=github&utm_medium=list&utm_campaign=internships) | Red Wing, MN (hybrid) | \$25/hr | Nov&nbsp;5 |
 | **Voya Financial** | [Summer Student - Risk Analytics and Reporting](https://www.wobo.ai/job/summer-student-risk-analytics-and-reporting-at-voya-financial-q19ur3n1x/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA (hybrid) | \$23/hr | Nov&nbsp;4 |
 | ↳ | [Summer Student - Investment Analytics](https://www.wobo.ai/job/summer-student-investment-analytics-at-voya-financial-q19upivo8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA | \$23/hr | Nov&nbsp;4 |
@@ -703,7 +703,6 @@
 | ↳ | [Data Science Intern](https://www.wobo.ai/job/data-science-intern-at-sagesure-s4jiwf517/?utm_source=github&utm_medium=list&utm_campaign=internships) | Jersey City, NJ |  | Oct&nbsp;9 |
 | **Papa John's** | [2027 Summer Intern - Data Science](https://www.wobo.ai/job/2027-summer-intern-data-science-at-papa-johns-j4lozs72q/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA |  | Oct&nbsp;8 |
 | **Wing** | [Data Scientist Intern, Summer 2027](https://www.wobo.ai/job/data-scientist-intern-summer-2027-at-wing-j0m45b6ju/?utm_source=github&utm_medium=list&utm_campaign=internships) | Palo Alto, CA | \$120K to \$126K/yr | Oct&nbsp;8 |
-| **Roblox** | [\[2027\] Data Scientist - PhD Intern](https://www.wobo.ai/job/2027-data-scientist-phd-intern-at-roblox-j0mmz5v8t/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | San Mateo, CA | \$66/hr | Oct&nbsp;8 |
 
 [Back to sections](#sections)
 
