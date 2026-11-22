@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,465 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 1:53 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,464 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:45 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (317) · [AI and ML](#ai-and-ml-internships) (204) · [Data](#data-internships) (152) · [Security](#security-internships) (61) · [Product and design](#product-and-design-internships) (85) · [Hardware](#hardware-internships) (444) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (202) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (317) · [AI and ML](#ai-and-ml-internships) (204) · [Data](#data-internships) (151) · [Security](#security-internships) (61) · [Product and design](#product-and-design-internships) (85) · [Hardware](#hardware-internships) (444) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (202) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -699,7 +699,6 @@
 | **SageSure** | [Data Scientist Intern](https://www.wobo.ai/job/data-scientist-intern-at-sagesure-s4jiy0qj7/?utm_source=github&utm_medium=list&utm_campaign=internships) | Cheshire, CT |  | Oct&nbsp;9 |
 | ↳ | [Data Science Intern](https://www.wobo.ai/job/data-science-intern-at-sagesure-s4jiwf517/?utm_source=github&utm_medium=list&utm_campaign=internships) | Jersey City, NJ |  | Oct&nbsp;9 |
 | **Papa John's** | [2027 Summer Intern - Data Science](https://www.wobo.ai/job/2027-summer-intern-data-science-at-papa-johns-j4lozs72q/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA |  | Oct&nbsp;8 |
-| **Wing** | [Data Scientist Intern, Summer 2027](https://www.wobo.ai/job/data-scientist-intern-summer-2027-at-wing-j0m45b6ju/?utm_source=github&utm_medium=list&utm_campaign=internships) | Palo Alto, CA | \$120K to \$126K/yr | Oct&nbsp;8 |
 
 [Back to sections](#sections)
 
