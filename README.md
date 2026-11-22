@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,451 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 1:49 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,450 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (204) · [Data](#data-internships) (148) · [Security](#security-internships) (59) · [Product and design](#product-and-design-internships) (84) · [Hardware](#hardware-internships) (443) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (313) · [AI and ML](#ai-and-ml-internships) (204) · [Data](#data-internships) (148) · [Security](#security-internships) (59) · [Product and design](#product-and-design-internships) (84) · [Hardware](#hardware-internships) (443) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -326,7 +326,6 @@
 | ↳ | [Embedded Software - Engineering Intern](https://www.wobo.ai/job/embedded-software-engineering-intern-at-aptiv-j1r2fepb3/?utm_source=github&utm_medium=list&utm_campaign=internships) | Walnut Creek, CA (hybrid) |  | Oct&nbsp;8 |
 | **Pinterest** | [Solutions Engineer Intern 2027 (USA)](https://www.wobo.ai/job/solutions-engineer-intern-2027-usa-at-pinterest-j0ikwdxys/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA (remote) | \$8K to \$10K/mo | Oct&nbsp;8 |
 | **Rugged Robotics** | [Robotic Software Intern/Co-op (Spring or Summer 2027)](https://www.wobo.ai/job/robotic-software-internco-op-spring-or-summer-2027-at-rugged-robotics-j0j7thky0/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Oct&nbsp;8 |
-| **DoorDash** | [Software Engineer, Intern - Labs (Summer 2027)](https://www.wobo.ai/job/software-engineer-intern-labs-summer-2027-at-doordash-jatdnbod9/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA | \$107K to \$158K/yr | Oct&nbsp;8 |
 
 [Back to sections](#sections)
 
