@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,401 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 6:50 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,391 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 7:05 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (312) · [AI and ML](#ai-and-ml-internships) (195) · [Data](#data-internships) (139) · [Security](#security-internships) (51) · [Product and design](#product-and-design-internships) (82) · [Hardware](#hardware-internships) (431) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (191) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (306) · [AI and ML](#ai-and-ml-internships) (196) · [Data](#data-internships) (139) · [Security](#security-internships) (51) · [Product and design](#product-and-design-internships) (82) · [Hardware](#hardware-internships) (427) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (190) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -37,8 +37,7 @@
 | **Church** | [Email Developer Intern](https://www.wobo.ai/job/email-developer-intern-at-church-s0rg6xbb2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Salt Lake City, UT (hybrid) |  | Nov&nbsp;19 |
 | **Mytra** | [Software Engineer Intern](https://www.wobo.ai/job/software-engineer-intern-at-mytra-s0b46wyyt/?utm_source=github&utm_medium=list&utm_campaign=internships) | Brisbane, CA |  | Nov&nbsp;19 |
 | **Aurora** | [Safety & Systems Engineering Intern](https://www.wobo.ai/job/safety-systems-engineering-intern-at-aurora-s5znks1qa/?utm_source=github&utm_medium=list&utm_campaign=internships) | Mountain View, CA | \$58 to \$65/hr | Nov&nbsp;18 |
-| **T-Mobile** | [Summer 2027 Site Reliability Engineering Internship](https://www.wobo.ai/job/summer-2027-site-reliability-engineering-internship-at-t-mobile-scm0ezik6/?utm_source=github&utm_medium=list&utm_campaign=internships) | Frisco, TX | \$27 to \$50/hr | Nov&nbsp;18 |
-| ↳ | [Summer 2027 Software Engineering Intern](https://www.wobo.ai/job/summer-2027-software-engineering-intern-at-t-mobile-sclzo8j70/?utm_source=github&utm_medium=list&utm_campaign=internships) | Overland Park, KS | \$27 to \$50/hr | Nov&nbsp;18 |
+| **T-Mobile** | [Summer 2027 Software Engineering Intern](https://www.wobo.ai/job/summer-2027-software-engineering-intern-at-t-mobile-sclzo8j70/?utm_source=github&utm_medium=list&utm_campaign=internships) | Overland Park, KS | \$27 to \$50/hr | Nov&nbsp;18 |
 | **Sierra Space** | [2027 Summer Internship - Systems Engineering](https://www.wobo.ai/job/2027-summer-internship-systems-engineering-at-sierra-space-s7yzeg968/?utm_source=github&utm_medium=list&utm_campaign=internships) | Centennial, CO | \$31/hr | Nov&nbsp;18 |
 | ↳ | [2027 Summer Internship - Software Engineering](https://www.wobo.ai/job/2027-summer-internship-software-engineering-at-sierra-space-s7yzdbjrm/?utm_source=github&utm_medium=list&utm_campaign=internships) | Centennial, CO | \$31/hr | Nov&nbsp;18 |
 | **RTX** | [Software Security Intern (Summer 2027)](https://www.wobo.ai/job/software-security-intern-summer-2027-at-rtx-s7uepp2g0/?utm_source=github&utm_medium=list&utm_campaign=internships) <kbd>clearance</kbd> | Cedar Rapids, IA | \$37K to \$82K/yr | Nov&nbsp;18 |
@@ -320,11 +319,6 @@
 | **Pinterest** | [Solutions Engineer Intern 2027 (USA)](https://www.wobo.ai/job/solutions-engineer-intern-2027-usa-at-pinterest-j0ikwdxys/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA (remote) | \$8K to \$10K/mo | Oct&nbsp;8 |
 | **Rugged Robotics** | [Robotic Software Intern/Co-op (Spring or Summer 2027)](https://www.wobo.ai/job/robotic-software-internco-op-spring-or-summer-2027-at-rugged-robotics-j0j7thky0/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Oct&nbsp;8 |
 | **DoorDash** | [Software Engineer, Intern - Labs (Summer 2027)](https://www.wobo.ai/job/software-engineer-intern-labs-summer-2027-at-doordash-jatdnbod9/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Francisco, CA | \$107K to \$158K/yr | Oct&nbsp;8 |
-| **ModMed** | [Software Engineering Intern](https://www.wobo.ai/job/software-engineering-intern-at-modmed-itwemntuk/?utm_source=github&utm_medium=list&utm_campaign=internships) | Boca Raton, FL (hybrid) |  | Oct&nbsp;7 |
-| **Leidos** | [Systems, Integration and Software Engineer Intern](https://www.wobo.ai/job/systems-integration-and-software-engineer-intern-at-leidos-iu2hth79b/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlantic City, NJ | \$48K to \$87K/yr | Oct&nbsp;7 |
-| **General Motors** | [2027 Summer Intern – Autonomous Driving Software Engineer (Bachelor's & Master's)](https://www.wobo.ai/job/2027-summer-intern-autonomous-driving-software-engineer-bachelors-masters-at-general-isnm9meq5/?utm_source=github&utm_medium=list&utm_campaign=internships) | Sunnyvale, CA (hybrid) | \$10K/mo | Oct&nbsp;7 |
-| **Cadence** | [CST Application Engineer Intern - Physical Systems](https://www.wobo.ai/job/cst-application-engineer-intern-physical-systems-at-cadence-j2myllkmg/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Jose, CA | \$29 to \$53/hr | Oct&nbsp;7 |
-| **Badger Meter** | [Software Engineering Intern](https://www.wobo.ai/job/software-engineering-intern-at-badger-meter-it9vxextz/?utm_source=github&utm_medium=list&utm_campaign=internships) | Escondido, CA |  | Oct&nbsp;7 |
 
 [Back to sections](#sections)
 
@@ -342,6 +336,7 @@
 | **Woodward L'Orange GmbH** | [AI Summer 2027 Internship](https://www.wobo.ai/job/ai-summer-2027-internship-at-woodward-lorange-gmbh-senphypgd/?utm_source=github&utm_medium=list&utm_campaign=internships) | Fort Collins, CO | \$21 to \$25/hr | Nov&nbsp;19 |
 | **UMB** | [AI Intern](https://www.wobo.ai/job/ai-intern-at-umb-sf2vxb0kt/?utm_source=github&utm_medium=list&utm_campaign=internships) | Kansas City, MO (hybrid) | \$34K to \$50K/yr | Nov&nbsp;19 |
 | **Rockwell Automation** | [Intern - ISM, Cyber Security and AI](https://www.wobo.ai/job/intern-ism-cyber-security-and-ai-at-rockwell-automation-semsr9ivc/?utm_source=github&utm_medium=list&utm_campaign=internships) | Mayfield Heights, OH | \$22 to \$32/hr | Nov&nbsp;19 |
+| **NVIDIA** | [Accounting AI Solution Engineer Intern - Summer 2027](https://www.wobo.ai/job/accounting-ai-solution-engineer-intern-summer-2027-at-nvidia-shbdp4jj8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Santa Clara, CA | \$20 to \$71/hr | Nov&nbsp;19 |
 | **Great American Insurance Group** | [Desktop AI Intern - Summer 2027](https://www.wobo.ai/job/desktop-ai-intern-summer-2027-at-great-american-insurance-group-ses44nfkv/?utm_source=github&utm_medium=list&utm_campaign=internships) | Cincinnati, OH (hybrid) |  | Nov&nbsp;19 |
 | **GlobalFoundries** | [AI/ML Analytics Intern, Digital Manufacturing (Summer 2027)](https://www.wobo.ai/job/aiml-analytics-intern-digital-manufacturing-summer-2027-at-globalfoundries-sfgxztuyk/?utm_source=github&utm_medium=list&utm_campaign=internships) | Malta, NY | \$20 to \$40/hr | Nov&nbsp;19 |
 | ↳ | [AI-Enabled Device Modeling Intern (Summer 2027)](https://www.wobo.ai/job/ai-enabled-device-modeling-intern-summer-2027-at-globalfoundries-sfgxwp6od/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | Malta, NY | \$20 to \$40/hr | Nov&nbsp;19 |
@@ -538,6 +533,7 @@
 | **Resultant** | [Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis)](https://www.wobo.ai/job/data-analytics-consultant-intern-summer-2027-hybrid-in-indianapolis-at-resultant-scbrnkyjb/?utm_source=github&utm_medium=list&utm_campaign=internships) | Indianapolis, IN (hybrid) |  | Nov&nbsp;20 |
 | **City of New York** | [Information Technology and Data Analysis Fellow](https://www.wobo.ai/job/information-technology-and-data-analysis-fellow-at-city-of-new-york-sc8p15ujo/?utm_source=github&utm_medium=list&utm_campaign=internships) | New York City, NY | \$54K/yr | Nov&nbsp;20 |
 | **Barry's** | [Undergraduate Summer Scholar, Data Analyst - Summer 2027](https://www.wobo.ai/job/undergraduate-summer-scholar-data-analyst-summer-2027-at-barrys-s85256aed/?utm_source=github&utm_medium=list&utm_campaign=internships) | New York City, NY |  | Nov&nbsp;20 |
+| **T-Mobile** | [Summer 2027 Data Analyst Internship](https://www.wobo.ai/job/summer-2027-data-analyst-internship-at-t-mobile-shbgd8fti/?utm_source=github&utm_medium=list&utm_campaign=internships) | Bellevue, WA | \$27 to \$50/hr | Nov&nbsp;19 |
 | **First Bank & Trust** | [Data Analyst Intern](https://www.wobo.ai/job/data-analyst-intern-at-first-bank-trust-scspm4ehd/?utm_source=github&utm_medium=list&utm_campaign=internships) | Brookings, SD |  | Nov&nbsp;19 |
 | **Cisco** | [Data Science Analyst II (Intern) – Untied States](https://www.wobo.ai/job/data-science-analyst-ii-intern-untied-states-at-cisco-selwl29br/?utm_source=github&utm_medium=list&utm_campaign=internships) | San Jose, CA (hybrid) | \$44K to \$185K/yr | Nov&nbsp;19 |
 | **TransUnion** | [Data Science & Analytics Internship - Summer 2027](https://www.wobo.ai/job/data-science-analytics-internship-summer-2027-at-transunion-s7zvsgf2o/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chicago, IL (hybrid) |  | Nov&nbsp;18 |
@@ -672,7 +668,6 @@
 | **Papa John's** | [2027 Summer Intern - Data Science](https://www.wobo.ai/job/2027-summer-intern-data-science-at-papa-johns-j4lozs72q/?utm_source=github&utm_medium=list&utm_campaign=internships) | Atlanta, GA |  | Oct&nbsp;8 |
 | **Wing** | [Data Scientist Intern, Summer 2027](https://www.wobo.ai/job/data-scientist-intern-summer-2027-at-wing-j0m45b6ju/?utm_source=github&utm_medium=list&utm_campaign=internships) | Palo Alto, CA | \$120K to \$126K/yr | Oct&nbsp;8 |
 | **Roblox** | [\[2027\] Data Scientist - PhD Intern](https://www.wobo.ai/job/2027-data-scientist-phd-intern-at-roblox-j0mmz5v8t/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | San Mateo, CA | \$66/hr | Oct&nbsp;8 |
-| **Applied Materials** | [2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's / Master's (Austin, TX)](https://www.wobo.ai/job/2027-data-analytics-business-operations-spring-co-op-or-summer-intern-bachelorsmasters-j4sfuvh4r/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX |  | Oct&nbsp;7 |
 
 [Back to sections](#sections)
 
@@ -1254,10 +1249,6 @@
 | **Syska Hennessy Group** | [Mechanical Engineering Summer Intern](https://www.wobo.ai/job/mechanical-engineering-summer-intern-at-syska-hennessy-group-j0rgx96vu/?utm_source=github&utm_medium=list&utm_campaign=internships) | Hamilton, NJ | \$22 to \$27/hr | Oct&nbsp;8 |
 | **Rugged Robotics** | [Mechanical Engineering Intern/Co-op (Spring or Summer 2027)](https://www.wobo.ai/job/mechanical-engineering-internco-op-spring-or-summer-2027-at-rugged-robotics-j0j7sk1x8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Oct&nbsp;8 |
 | ↳ | [Electrical Engineering Intern/Co-op (Spring or Summer '27)](https://www.wobo.ai/job/electrical-engineering-internco-op-spring-or-summer-27-at-rugged-robotics-j0j7rt7j8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Houston, TX |  | Oct&nbsp;8 |
-| **The Toro Company** | [Manufacturing Engineering Intern - The Toro Company](https://www.wobo.ai/job/manufacturing-engineering-intern-the-toro-company-at-the-toro-company-j2zndso9r/?utm_source=github&utm_medium=list&utm_campaign=internships) | Shakopee, MN | \$22 to \$28/hr | Oct&nbsp;7 |
-| ↳ | [Manufacturing Engineer Intern - The Toro Company](https://www.wobo.ai/job/manufacturing-engineer-intern-the-toro-company-at-the-toro-company-isi4edlmt/?utm_source=github&utm_medium=list&utm_campaign=internships) | Windom, MN | \$22 to \$28/hr | Oct&nbsp;7 |
-| **Ingredion** | [Process Engineering Intern (Summer 2027) - Cedar Rapids, IA](https://www.wobo.ai/job/process-engineering-intern-summer-2027-cedar-rapids-ia-at-ingredion-j1wpwzqk2/?utm_source=github&utm_medium=list&utm_campaign=internships) | Cedar Rapids, IA |  | Oct&nbsp;7 |
-| **Aptiv** | [Mechanical Engineering Intern - Tooling](https://www.wobo.ai/job/mechanical-engineering-intern-tooling-at-aptiv-ircasmrhe/?utm_source=github&utm_medium=list&utm_campaign=internships) | Warren, OH |  | Oct&nbsp;7 |
 
 [Back to sections](#sections)
 
@@ -1455,7 +1446,6 @@
 | **Mantis Innovation** | [Mechanical Engineer Intern / Co-Op for SPRING 2027](https://www.wobo.ai/job/mechanical-engineer-intern-co-op-for-spring-2027-at-mantis-innovation-j4gm8q41q/?utm_source=github&utm_medium=list&utm_campaign=internships) | Alpharetta, GA |  | Oct&nbsp;8 |
 | **SharkNinja** | [Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](https://www.wobo.ai/job/spring-2027-mechanical-engineering-co-op-shark-january-to-june-at-sharkninja-izci1h2xs/?utm_source=github&utm_medium=list&utm_campaign=internships) | Needham, MA | \$30 to \$36/hr | Oct&nbsp;8 |
 | **SoloPulse** | [Software Engineer Intern/Co-op - Spring 2027](https://www.wobo.ai/job/software-engineer-internco-op-spring-2027-at-solopulse-iuch8bacw/?utm_source=github&utm_medium=list&utm_campaign=internships) | Peachtree Corners, GA (hybrid) |  | Oct&nbsp;8 |
-| **Ingredion** | [Process Engineer Co-op 2027 (May-Dec)](https://www.wobo.ai/job/process-engineer-co-op-2027-may-dec-at-ingredion-j1wpy4ph2/?utm_source=github&utm_medium=list&utm_campaign=internships) | North Kansas City, MO | \$22 to \$26/hr | Oct&nbsp;7 |
 
 [Back to sections](#sections)
 
