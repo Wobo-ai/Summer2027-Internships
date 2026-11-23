@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,435 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 5:29 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,434 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 12:50 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (312) · [AI and ML](#ai-and-ml-internships) (198) · [Data](#data-internships) (152) · [Security](#security-internships) (62) · [Product and design](#product-and-design-internships) (86) · [Hardware](#hardware-internships) (426) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (198) · [Data](#data-internships) (152) · [Security](#security-internships) (62) · [Product and design](#product-and-design-internships) (86) · [Hardware](#hardware-internships) (426) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -324,7 +324,6 @@
 | **ASU Enterprise Partners** | [Student Web Developer & Content Specialist](https://www.wobo.ai/job/student-web-developer-content-specialist-at-asu-enterprise-partners-jmfe1en13/?utm_source=github&utm_medium=list&utm_campaign=internships) | Tempe, AZ |  | Oct&nbsp;9 |
 | **SageSure** | [Software Product Management Intern](https://www.wobo.ai/job/software-product-management-intern-at-sagesure-s4jj9f6s8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chicago, IL (hybrid) |  | Oct&nbsp;9 |
 | ↳ | [Software Engineer Intern](https://www.wobo.ai/job/software-engineer-intern-at-sagesure-s4jj8zgta/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chicago, IL (hybrid) |  | Oct&nbsp;9 |
-| **Coinbase** | [Forward Deployed Engineer Intern (HR Technology)](https://www.wobo.ai/job/forward-deployed-engineer-intern-hr-technology-at-coinbase-jb1f5n38o/?utm_source=github&utm_medium=list&utm_campaign=internships) | NY (hybrid) | \$50/hr | Oct&nbsp;9 |
 
 [Back to sections](#sections)
 
