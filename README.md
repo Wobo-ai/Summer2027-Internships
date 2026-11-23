@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,443 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:45 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,444 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:45 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (203) · [Data](#data-internships) (151) · [Security](#security-internships) (62) · [Product and design](#product-and-design-internships) (85) · [Hardware](#hardware-internships) (430) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (198) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (203) · [Data](#data-internships) (152) · [Security](#security-internships) (62) · [Product and design](#product-and-design-internships) (85) · [Hardware](#hardware-internships) (430) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (198) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -601,7 +601,8 @@
 | **Kestra** | [Summer Internship, Data Analytics](https://www.wobo.ai/job/summer-internship-data-analytics-at-kestra-r3wqq2dfb/?utm_source=github&utm_medium=list&utm_campaign=internships) | Austin, TX |  | Nov&nbsp;11 |
 | **Mapei** | [Analytics Specialist, Intern (Summer 2027)](https://www.wobo.ai/job/analytics-specialist-intern-summer-2027-at-mapei-r3uwdj55p/?utm_source=github&utm_medium=list&utm_campaign=internships) | Deerfield Beach, FL | up to \$23/hr | Nov&nbsp;11 |
 | **Kubota** | [Summer 2026 Internship - (Predicition Modeling/Data Analytics)](https://www.wobo.ai/job/summer-2026-internship-predicition-modelingdata-analytics-at-kubota-r3l9stnib/?utm_source=github&utm_medium=list&utm_campaign=internships) | Grapevine, TX | \$18/hr | Nov&nbsp;11 |
-| **Navy Federal Credit Union** | [Summer Associate Internship (Data Scientist)](https://www.wobo.ai/job/summer-associate-internship-data-scientist-at-navy-federal-credit-union-r31tovhwn/?utm_source=github&utm_medium=list&utm_campaign=internships) | Vienna, VA (hybrid) |  | Nov&nbsp;11 |
+| **Navy Federal Credit Union** | [Intern - Year Round (Data Analytics)](https://www.wobo.ai/job/intern-year-round-data-analytics-at-navy-federal-credit-union-r31tu7ylz/?utm_source=github&utm_medium=list&utm_campaign=internships) | Vienna, VA (hybrid) |  | Nov&nbsp;11 |
+| ↳ | [Summer Associate Internship (Data Scientist)](https://www.wobo.ai/job/summer-associate-internship-data-scientist-at-navy-federal-credit-union-r31tovhwn/?utm_source=github&utm_medium=list&utm_campaign=internships) | Vienna, VA (hybrid) |  | Nov&nbsp;11 |
 | ↳ | [Summer Associate Internship (Business Intelligence Analyst)](https://www.wobo.ai/job/summer-associate-internship-business-intelligence-analyst-at-navy-federal-credit-union-r31tlq6lv/?utm_source=github&utm_medium=list&utm_campaign=internships) | Pensacola, FL (hybrid) +1 |  | Nov&nbsp;11 |
 | ↳ | [Summer Associate Internship (Associate Data Engineer)](https://www.wobo.ai/job/summer-associate-internship-associate-data-engineer-at-navy-federal-credit-union-r31s7dscw/?utm_source=github&utm_medium=list&utm_campaign=internships) | Vienna, VA (hybrid) |  | Nov&nbsp;11 |
 | ↳ | [Summer Associate Internship (Data Engineer)](https://www.wobo.ai/job/summer-associate-internship-data-engineer-at-navy-federal-credit-union-r31s4b0ki/?utm_source=github&utm_medium=list&utm_campaign=internships) | Vienna, VA (hybrid) |  | Nov&nbsp;11 |
