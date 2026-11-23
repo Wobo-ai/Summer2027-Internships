@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,437 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 5:29 am ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,435 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 5:29 am ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (313) · [AI and ML](#ai-and-ml-internships) (198) · [Data](#data-internships) (152) · [Security](#security-internships) (62) · [Product and design](#product-and-design-internships) (86) · [Hardware](#hardware-internships) (427) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (312) · [AI and ML](#ai-and-ml-internships) (198) · [Data](#data-internships) (152) · [Security](#security-internships) (62) · [Product and design](#product-and-design-internships) (86) · [Hardware](#hardware-internships) (426) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -325,7 +325,6 @@
 | **SageSure** | [Software Product Management Intern](https://www.wobo.ai/job/software-product-management-intern-at-sagesure-s4jj9f6s8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chicago, IL (hybrid) |  | Oct&nbsp;9 |
 | ↳ | [Software Engineer Intern](https://www.wobo.ai/job/software-engineer-intern-at-sagesure-s4jj8zgta/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chicago, IL (hybrid) |  | Oct&nbsp;9 |
 | **Coinbase** | [Forward Deployed Engineer Intern (HR Technology)](https://www.wobo.ai/job/forward-deployed-engineer-intern-hr-technology-at-coinbase-jb1f5n38o/?utm_source=github&utm_medium=list&utm_campaign=internships) | NY (hybrid) | \$50/hr | Oct&nbsp;9 |
-| **GCM Grosvenor** | [2027 Software Engineering Summer Intern](https://www.wobo.ai/job/2027-software-engineering-summer-intern-at-gcm-grosvenor-jb1wtw1j9/?utm_source=github&utm_medium=list&utm_campaign=internships) | Chicago, IL | \$75K to \$80K/yr | Oct&nbsp;9 |
 
 [Back to sections](#sections)
 
@@ -1285,7 +1284,6 @@
 | **City of New York** | [Electrical Engineering Intern](https://www.wobo.ai/job/electrical-engineering-intern-at-city-of-new-york-jjzc0bbk6/?utm_source=github&utm_medium=list&utm_campaign=internships) | Queens, NY |  | Oct&nbsp;10 |
 | **Stantec** | [Instrumentation & Controls Engineering Intern – Energy & Resources (Summer 2027)](https://www.wobo.ai/job/instrumentation-controls-engineering-intern-energy-resources-summer-2027-at-stantec-j57aaryo8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Bakersfield, CA |  | Oct&nbsp;10 |
 | **Zipline** | [Firmware Engineer Intern (Summer 2027)](https://www.wobo.ai/job/firmware-engineer-intern-summer-2027-at-zipline-jb2p32qz8/?utm_source=github&utm_medium=list&utm_campaign=internships) | South San Francisco, CA |  | Oct&nbsp;9 |
-| **Mantis Innovation** | [Mechanical Engineer Intern / Co-Op for SUMMER 2027](https://www.wobo.ai/job/mechanical-engineer-intern-co-op-for-summer-2027-at-mantis-innovation-j4gm9yo6y/?utm_source=github&utm_medium=list&utm_campaign=internships) | Alpharetta, GA |  | Oct&nbsp;9 |
 
 [Back to sections](#sections)
 
