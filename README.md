@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,429 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 3:40 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
+**1,427 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 3:40 pm ET). Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (195) · [Data](#data-internships) (151) · [Security](#security-internships) (64) · [Product and design](#product-and-design-internships) (86) · [Hardware](#hardware-internships) (420) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (199) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (195) · [Data](#data-internships) (151) · [Security](#security-internships) (64) · [Product and design](#product-and-design-internships) (86) · [Hardware](#hardware-internships) (419) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (198) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -1277,7 +1277,6 @@
 | **Allison Transmission** | [Internship - Manufacturing Engineer](https://www.wobo.ai/job/internship-manufacturing-engineer-at-allison-transmission-k8925l076/?utm_source=github&utm_medium=list&utm_campaign=internships) | Indianapolis, IN |  | Oct&nbsp;11 |
 | **City of New York** | [Electrical Engineering Intern](https://www.wobo.ai/job/electrical-engineering-intern-at-city-of-new-york-jjzc0bbk6/?utm_source=github&utm_medium=list&utm_campaign=internships) | Queens, NY |  | Oct&nbsp;10 |
 | **Stantec** | [Instrumentation & Controls Engineering Intern – Energy & Resources (Summer 2027)](https://www.wobo.ai/job/instrumentation-controls-engineering-intern-energy-resources-summer-2027-at-stantec-j57aaryo8/?utm_source=github&utm_medium=list&utm_campaign=internships) | Bakersfield, CA |  | Oct&nbsp;10 |
-| **Zipline** | [Firmware Engineer Intern (Summer 2027)](https://www.wobo.ai/job/firmware-engineer-intern-summer-2027-at-zipline-jb2p32qz8/?utm_source=github&utm_medium=list&utm_campaign=internships) | South San Francisco, CA |  | Oct&nbsp;9 |
 
 [Back to sections](#sections)
 
@@ -1483,7 +1482,6 @@
 | **Bose** | [Audio Machine Learning Co-op](https://www.wobo.ai/job/audio-machine-learning-co-op-at-bose-kgxoai7d5/?utm_source=github&utm_medium=list&utm_campaign=internships) 🎓 | United States | \$40 to \$51/hr | Oct&nbsp;12 |
 | **Bass Pro Shops** | [Electrical Engineering Co-Op](https://www.wobo.ai/job/electrical-engineering-co-op-at-bass-pro-shops-scjgi7jnc/?utm_source=github&utm_medium=list&utm_campaign=internships) | Springfield, MO |  | Oct&nbsp;12 |
 | **Ingredion** | [Process Engineering Co-Op (January - May 2027)](https://www.wobo.ai/job/process-engineering-co-op-january-may-2027-at-ingredion-k5tyom9ao/?utm_source=github&utm_medium=list&utm_campaign=internships) | Indianapolis, IN | \$22 to \$31/hr | Oct&nbsp;11 |
-| **Zipline** | [Firmware Engineer Intern (Spring 2027)](https://www.wobo.ai/job/firmware-engineer-intern-spring-2027-at-zipline-jb2p2o6ao/?utm_source=github&utm_medium=list&utm_campaign=internships) | South San Francisco, CA |  | Oct&nbsp;9 |
 
 [Back to sections](#sections)
 
