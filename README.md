@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,424 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 5:12 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
+**1,423 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 5:12 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (198) · [Data](#data-internships) (156) · [Security](#security-internships) (63) · [Product and design](#product-and-design-internships) (90) · [Hardware](#hardware-internships) (411) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (192) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (197) · [Data](#data-internships) (156) · [Security](#security-internships) (63) · [Product and design](#product-and-design-internships) (90) · [Hardware](#hardware-internships) (411) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (192) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -334,7 +334,6 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| **JPMorgan Chase** | 2027 Applied AI - HR CDAO - Summer Associate 🎓 | NY |  | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/srjwwyciu/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srjwwyciu/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Illumio** | AI-Based Scale & Performance Test Automation Intern | Sunnyvale, CA |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/snq0t512r/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/snq0t512r/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Samsung Research America Internship** | 2027 Spring/Summer Intern, Computer Vision 🎓 | Mountain View, CA | \$48 to \$63/hr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/sq6vf6skv/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sq6vf6skv/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
 | ↳ | 2027 Spring/Summer PhD Intern, AI Research 🎓 | Mountain View, CA | \$48 to \$63/hr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/sq6vgv1y5/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sq6vgv1y5/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
