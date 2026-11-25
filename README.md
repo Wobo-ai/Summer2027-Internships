@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,423 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 5:12 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
+**1,422 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 12:54 am ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (197) · [Data](#data-internships) (156) · [Security](#security-internships) (63) · [Product and design](#product-and-design-internships) (90) · [Hardware](#hardware-internships) (411) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (192) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (197) · [Data](#data-internships) (156) · [Security](#security-internships) (63) · [Product and design](#product-and-design-internships) (90) · [Hardware](#hardware-internships) (410) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (192) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -1274,7 +1274,6 @@
 | **Heidelberg Materials** | Mechanical Engineer Intern | Fort Lauderdale, FL | \$23 to \$27/hr | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kgh2utpmz/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kgh2utpmz/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Bridge Neurotech, Inc.** | Hardware Engineering Intern | Redwood City, CA |  | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s4yrrbjvj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4yrrbjvj/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **DoorDash** | Electrical Engineer, Intern - Labs (Summer 2027) | Oakland, CA | \$107K to \$158K/yr | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/l7jx2yhrx/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/l7jx2yhrx/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Plastipak** | Process Engineer (Engineering) Intern – Summer 2027 | MI |  | Oct&nbsp;11 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/k8d8r2rhv/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/k8d8r2rhv/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Micron Technology** | Intern - SSD Hardware Engineering | CO | \$50/hr | Oct&nbsp;11 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/jwvrrt1vk/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/jwvrrt1vk/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Life Fitness** | Biomechanical Engineering Intern | Rosemont, IL | \$24 to \$27/hr | Oct&nbsp;11 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s3y96nw28/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s3y96nw28/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
 | ↳ | Mechanical Engineering Intern | Schaumburg, IL (hybrid) | \$24 to \$27/hr | Oct&nbsp;11 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s3y95w2dc/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s3y95w2dc/?apply=1&utm_source=github&utm_medium=list&utm_campaign=internships) |
