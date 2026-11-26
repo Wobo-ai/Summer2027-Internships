@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,436 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 4:03 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
+**1,434 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 4:03 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (199) · [Data](#data-internships) (156) · [Security](#security-internships) (63) · [Product and design](#product-and-design-internships) (92) · [Hardware](#hardware-internships) (417) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (195) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (314) · [AI and ML](#ai-and-ml-internships) (198) · [Data](#data-internships) (156) · [Security](#security-internships) (63) · [Product and design](#product-and-design-internships) (92) · [Hardware](#hardware-internships) (416) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (195) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -532,7 +532,6 @@
 | ↳ | AI Engineering - Software Engineer Internships - Summer 2027 (Masters) 🎓 | Santa Clara, CA | \$59/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kdqxkpt67/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kdqxkpt67/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Unity** | Machine Learning Engineer-Internship | Mountain View, CA | \$117K to \$152K/yr | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s662srhnr/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s662srhnr/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Prologis** | AI Product Management Intern | Denver, CO | \$25 to \$30/hr | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/k85jepsx5/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/k85jepsx5/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Bridge Neurotech, Inc.** | ML Software Engineering Intern (PhD) 🎓 | Redwood City, CA |  | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s4yrvx1y1/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4yrvx1y1/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
 [Back to sections](#sections)
 
@@ -1288,7 +1287,6 @@
 | **Parsons** | Electrical Engineering Intern - Summer 2027 | New York City, NY | \$23 to \$40/hr | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/k8hdyawgi/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/k8hdyawgi/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **KLA** | Mechanical Design Engineer Intern | Ann Arbor, MI | \$27 to \$39/hr | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/k7f0hl95d/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/k7f0hl95d/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Heidelberg Materials** | Mechanical Engineer Intern | Fort Lauderdale, FL | \$23 to \$27/hr | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kgh2utpmz/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kgh2utpmz/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Bridge Neurotech, Inc.** | Hardware Engineering Intern | Redwood City, CA |  | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s4yrrbjvj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4yrrbjvj/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
 [Back to sections](#sections)
 
