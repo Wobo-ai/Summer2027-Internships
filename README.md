@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,441 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 4:46 am ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
+**1,439 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 4:46 am ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (316) · [AI and ML](#ai-and-ml-internships) (201) · [Data](#data-internships) (156) · [Security](#security-internships) (61) · [Product and design](#product-and-design-internships) (93) · [Hardware](#hardware-internships) (416) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (198) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (316) · [AI and ML](#ai-and-ml-internships) (201) · [Data](#data-internships) (156) · [Security](#security-internships) (61) · [Product and design](#product-and-design-internships) (92) · [Hardware](#hardware-internships) (415) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (198) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -867,7 +867,6 @@
 | **Vertiv** | UI/UX Design Intern (Summer 2027) | Delaware, OH |  | Oct&nbsp;14 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kbxlnylp4/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kbxlnylp4/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **General Motors** | 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA) 🎓 | Sunnyvale, CA (hybrid) | \$9K to \$11K/mo | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/ks1w55aym/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ks1w55aym/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Anduril Industries** | 2027 Product Designer Intern | Costa Mesa, CA | \$34 to \$42/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/ker7bs4k9/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ker7bs4k9/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Carlisle** | Product Management Intern | Carlisle, PA |  | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/k1gaonyq6/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/k1gaonyq6/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
 [Back to sections](#sections)
 
@@ -1290,7 +1289,6 @@
 | **KLA** | Mechanical Design Engineer Intern | Ann Arbor, MI | \$27 to \$39/hr | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/k7f0hl95d/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/k7f0hl95d/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Heidelberg Materials** | Mechanical Engineer Intern | Fort Lauderdale, FL | \$23 to \$27/hr | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kgh2utpmz/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kgh2utpmz/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Bridge Neurotech, Inc.** | Hardware Engineering Intern | Redwood City, CA |  | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s4yrrbjvj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4yrrbjvj/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **DoorDash** | Electrical Engineer, Intern - Labs (Summer 2027) | Oakland, CA | \$107K to \$158K/yr | Oct&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/l7jx2yhrx/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/l7jx2yhrx/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
 [Back to sections](#sections)
 
