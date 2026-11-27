@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,413 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:05 am ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
+**1,412 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:05 am ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (312) · [AI and ML](#ai-and-ml-internships) (195) · [Data](#data-internships) (153) · [Security](#security-internships) (59) · [Product and design](#product-and-design-internships) (94) · [Hardware](#hardware-internships) (408) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (192) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (195) · [Data](#data-internships) (153) · [Security](#security-internships) (59) · [Product and design](#product-and-design-internships) (94) · [Hardware](#hardware-internships) (408) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (192) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -324,7 +324,6 @@
 | **Wing** | Data Infra Software Engineering Intern, Summer 2027 | Palo Alto, CA | \$128K to \$135K/yr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kerbqrex3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kerbqrex3/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Simbe Robotics** | Robot Software Engineer Intern — Spring & Summer 2027 | San Francisco Bay Area, CA |  | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/mqvvd4yof/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/mqvvd4yof/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Skydio** | Software Engineer Intern - Summer 2027 | San Mateo, CA (remote) | \$47 to \$58/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kiti9y879/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kiti9y879/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Figma** | PhD Intern, Software Engineer - Graphics (2027) 🎓 | San Francisco, CA (hybrid) | \$74/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s3pf9bgbb/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s3pf9bgbb/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
 [Back to sections](#sections)
 
