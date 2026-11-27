@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,412 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:05 am ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
+**1,411 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 12:50 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (195) · [Data](#data-internships) (153) · [Security](#security-internships) (59) · [Product and design](#product-and-design-internships) (94) · [Hardware](#hardware-internships) (408) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (192) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (195) · [Data](#data-internships) (152) · [Security](#security-internships) (59) · [Product and design](#product-and-design-internships) (94) · [Hardware](#hardware-internships) (408) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (192) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -580,7 +580,6 @@
 | **ABB** | Sales Excellence Data Analytics Intern - Summer 2027 | NC (hybrid) | \$20 to \$34/hr | Nov&nbsp;15 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/sckmg0e3m/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sckmg0e3m/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Holland America Group** | Intern, Maritime Business Data Analytics (HAL) | Seattle, WA (hybrid) | \$25 to \$30/hr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/ricq4qbjj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ricq4qbjj/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Nexus One** | Data Engineering Intern | Atlanta, GA (hybrid) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s4y75yeh8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4y75yeh8/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Piedmont Airlines** | Safety Data Analytics Intern | Charlotte, NC | \$20 to \$22/hr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s3zlve9e7/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s3zlve9e7/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Camping World** | Data Analyst Intern 🎓 | Chicago, IL (hybrid) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/rjmwdwh1p/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjmwdwh1p/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | ↳ | Data Engineering Intern 🎓 | Chicago, IL (hybrid) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/rjmway38t/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjmway38t/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Zoox** | Data Scientist Intern \[Summer 2027\] 🎓 | Foster City, CA (hybrid) | \$7K to \$11K/mo | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/rfqtykf03/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rfqtykf03/?utm_source=github&utm_medium=list&utm_campaign=internships) |
