@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,392 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:41 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
+**1,390 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:41 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (308) · [AI and ML](#ai-and-ml-internships) (189) · [Data](#data-internships) (151) · [Security](#security-internships) (57) · [Product and design](#product-and-design-internships) (92) · [Hardware](#hardware-internships) (405) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (190) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (308) · [AI and ML](#ai-and-ml-internships) (189) · [Data](#data-internships) (151) · [Security](#security-internships) (57) · [Product and design](#product-and-design-internships) (92) · [Hardware](#hardware-internships) (403) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (190) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -1248,8 +1248,6 @@
 | **Oshkosh AeroTech** | Engineer Intern - Mechanical (Year Round) | Clearwater, FL | \$18 to \$37/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kiun85vgn/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kiun85vgn/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Charter Manufacturing** | Process Engineer Intern (Summer 2027) | Shawano, WI |  | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/ksztel9e8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ksztel9e8/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | ↳ | Electrical Controls Engineer Intern (Summer 2027) | Milwaukee, WI |  | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/ksztdxynh/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ksztdxynh/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Inversion** | RF Engineer - Internship | Playa Vista, CA | \$38 to \$41/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/keno6rchl/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/keno6rchl/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Syska Hennessy Group** | Mechanical Engineer Summer Intern | Tampa, FL | \$22 to \$24/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/ketzobhoq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ketzobhoq/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
 [Back to sections](#sections)
 
