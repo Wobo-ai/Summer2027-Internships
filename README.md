@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,411 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 12:50 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
+**1,408 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 1:55 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (195) · [Data](#data-internships) (152) · [Security](#security-internships) (59) · [Product and design](#product-and-design-internships) (94) · [Hardware](#hardware-internships) (408) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (192) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (310) · [AI and ML](#ai-and-ml-internships) (195) · [Data](#data-internships) (151) · [Security](#security-internships) (59) · [Product and design](#product-and-design-internships) (94) · [Hardware](#hardware-internships) (407) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (192) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -323,7 +323,6 @@
 | **Assurant** | Summer 2027 Intern: Software Engineering Intern | Atlanta, GA (hybrid) | \$20 to \$25/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kps5qfj9l/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kps5qfj9l/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Wing** | Data Infra Software Engineering Intern, Summer 2027 | Palo Alto, CA | \$128K to \$135K/yr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kerbqrex3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kerbqrex3/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Simbe Robotics** | Robot Software Engineer Intern — Spring & Summer 2027 | San Francisco Bay Area, CA |  | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/mqvvd4yof/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/mqvvd4yof/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Skydio** | Software Engineer Intern - Summer 2027 | San Mateo, CA (remote) | \$47 to \$58/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kiti9y879/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kiti9y879/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
 [Back to sections](#sections)
 
@@ -553,7 +552,6 @@
 | **Intuitive** | Data Engineering Intern | Sunnyvale, CA |  | Nov&nbsp;20 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/sh3nglsq8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sh3nglsq8/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Resultant** | Data & Analytics Consultant Intern - Summer 2027 (Hybrid in Indianapolis) | Indianapolis, IN (hybrid) |  | Nov&nbsp;20 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/scbrnkyjb/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/scbrnkyjb/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Barry's** | Undergraduate Summer Scholar, Data Analyst - Summer 2027 | New York City, NY |  | Nov&nbsp;20 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s85256aed/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s85256aed/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **T-Mobile** | Summer 2027 Data Analyst Internship | Bellevue, WA | \$27 to \$50/hr | Nov&nbsp;19 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/shbgd8fti/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/shbgd8fti/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **First Bank & Trust** | Data Analyst Intern | Brookings, SD |  | Nov&nbsp;19 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/scspm4ehd/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/scspm4ehd/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Advance Auto Parts** | Data Science Intern | Raleigh, NC |  | Nov&nbsp;19 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/sgvliucij/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sgvliucij/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **TransUnion** | Data Science & Analytics Internship - Summer 2027 | Chicago, IL (hybrid) |  | Nov&nbsp;18 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/s7zvsgf2o/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s7zvsgf2o/?utm_source=github&utm_medium=list&utm_campaign=internships) |
@@ -1266,7 +1264,6 @@
 | **Syska Hennessy Group** | Mechanical Engineer Summer Intern | Tampa, FL | \$22 to \$24/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/ketzobhoq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ketzobhoq/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Anduril Industries** | 2027 Firmware Engineer Intern | Costa Mesa, CA | \$42 to \$50/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/ker7at048/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ker7at048/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Astera Labs** | Firmware Engineer Intern Summer Co-op | San Jose, CA |  | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kbk21bc1b/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kbk21bc1b/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Muon Space** | Spacecraft Test Engineering Intern (Summer 2027) | San Jose, CA | \$40 to \$50/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/ken73e1it/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ken73e1it/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
 [Back to sections](#sections)
 
