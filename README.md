@@ -1,11 +1,11 @@
 # <a href="#software-internships"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Summer 2027 Tech Internships by Wobo" src="assets/banner.png"></picture></a>
 
-**1,401 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 3:42 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
+**1,399 open Summer 2027 tech internships in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:41 pm ET). For each role, **View job** opens the job on Intern Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=internships&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#software-internships) (311) · [AI and ML](#ai-and-ml-internships) (191) · [Data](#data-internships) (151) · [Security](#security-internships) (57) · [Product and design](#product-and-design-internships) (93) · [Hardware](#hardware-internships) (407) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (191) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#software-internships) (310) · [AI and ML](#ai-and-ml-internships) (190) · [Data](#data-internships) (151) · [Security](#security-internships) (57) · [Product and design](#product-and-design-internships) (93) · [Hardware](#hardware-internships) (407) · [Fall, winter, spring and co-op](#fall-winter-spring-and-co-op-internships) (191) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -41,7 +41,6 @@
 | **RTX** | Software Engineering Intern (Summer 2027) <kbd>clearance</kbd> | Fort Wayne, IN | \$37K to \$82K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/srqqrm6go/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srqqrm6go/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | ↳ | Systems Engineering Co-op (Summer/Fall 2027) <kbd>clearance</kbd> | Cedar Rapids, IA | \$37K to \$82K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/srqqihkr9/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srqqihkr9/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **NVIDIA** | Software Engineering Intern, Simulation Technology - Summer 2027 | Santa Clara, CA | \$20 to \$86/hr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/sv3ekizek/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sv3ekizek/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Northrop Grumman** | 2027 Software Engineering Intern - Colorado Springs CO <kbd>clearance</kbd> | Colorado Springs, CO | \$24 to \$31/hr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/ss3utr7nm/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ss3utr7nm/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Motorola Solutions** | Software Engineering Intern - 2027 Internship Program | Salt Lake City, UT |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/srn54fqc0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srn54fqc0/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Contoro Inc.** | Robotics Software Engineer Intern, Autonomy \[Automation\] | Austin, TX |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/snps1y4au/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/snps1y4au/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Shield** | 2027 Summer Intern - Software Engineering - 5815 | Dallas, TX |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/sn78cuvbf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sn78cuvbf/?utm_source=github&utm_medium=list&utm_campaign=internships) |
@@ -521,7 +520,6 @@
 | ↳ | 2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles | Sunnyvale, CA (hybrid) | \$10K to \$12K/mo | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/khoduanjz/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/khoduanjz/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Astreya** | AI Infrastructure DC Design Intern | CA (remote) | \$16 to \$25/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/krs9owmso/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/krs9owmso/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | **Wing** | Machine Learning Engineering Intern, Summer 2027 🎓 | Palo Alto, CA | \$128K to \$135K/yr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/kerbynxrm/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/kerbynxrm/?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Machine Learning, Planning / Prediction 🎓 | Mountain View, CA | \$70/hr | Oct&nbsp;13 | [![View job](assets/v.svg)](https://www.internjoblist.com/job/keprts0kc/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/keprts0kc/?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
 [Back to sections](#sections)
 
